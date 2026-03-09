@@ -1,0 +1,1221 @@
+order_id,Order Date,customer_name,email,country,product_name,qty,price,payment_status,shipping_date
+ORD1000,2024-02-27,Regina Webb,jessica46@example.org,UK,Laptop,3.0,56.53,Paid,
+ORD1001,Apr 21 2024,terry nelson,rwagner@example.com,U.S.,Monitor,1.0,116.64,Paid,2024-04-24
+ORD1002,2024-03-22,dylan hernandez,josemarshall@example.com,United States,Monitor,3.0,$62.8,PAID,2024-03-28
+ORD1003,01/23/2024,  DUSTIN BAUTISTA  ,laurenstewart@example.com,united states,Keyboard,1.0,194.89,Paid,
+ORD1004,2024-04-26,jordan wright,caitlinthomas@example.com,Canada,Mouse,1.0,$172.51,paid,2024-04-30
+ORD1005,2024-02-06,  JESSE GREER  ,yturner@example.com,CAN,Keyboard,2.0,111.49,pending,2024-02-15
+ORD1006,06/15/2024,hannah blevins,brenda45@example.net,United Kingdom,Keyboard,2.0,$166.14,Pending,2024-06-15
+ORD1007,Aug 22 2024,jose david,ambermiller@example.com,United Kingdom,Monitor,3.0,36.53,Pending,2024-08-24
+ORD1008,2024-03-11,robert garcia,blakenguyen@example.net,US,Monitor,,27.27,Pending,2024-03-19
+ORD1009,2024-08-27,jonathan warner,cunninghammisty@example.net,UK,Keyboard,3.0,194.5,PAID,2024-09-04
+ORD1010,Aug 10 2024,mr. jeremy maldonado,gyoung@example.com,UK,Mouse,,10.62,Paid,2024-08-12
+ORD1011,2024-06-01,Michael Cole,mcdonaldphilip@example.net,UK,Laptop,2.0,39.04,Pending,
+ORD1012,Jul 04 2024,michael weber,johnstondonald@example.net,canada,Laptop,2.0,21.01,pending,2024-07-08
+ORD1013,2024-03-06,  ZACHARY JOHNSON  ,porterjoel@example.org,United Kingdom,Monitor,,189.9,pending,2024-03-16
+ORD1014,Apr 12 2024,Andrew Clay,courtneymolina@example.com,canada,Laptop,,$199.08,Paid,2024-04-16
+ORD1015,Oct 10 2024,joseph austin,earlgarcia@example.net,USA,Keyboard,2.0,$11.37,paid,2024-10-13
+ORD1016,Sep 05 2024,david jones,richarddaniel@example.com,canada,Monitor,2.0,$147.44,Paid,2024-09-08
+ORD1017,Jun 30 2024,  KEVIN MENDOZA  ,brian29@example.org,U.K.,Laptop,,$98.73,PAID,2024-07-06
+ORD1018,02/25/2024,  CHRISTOPHER MOODY  ,karensnow@example.com,US,Keyboard,2.0,$46.14,Paid,2024-02-28
+ORD1019,Oct 08 2024,Mark Casey,zrobles@example.org,U.S.,Mouse,1.0,$133.91,Pending,2024-10-09
+ORD1020,07/24/2024,  SARAH PHILLIPS  ,phumphrey@example.net,canada,Keyboard,2.0,$82.0,pending,2024-07-24
+ORD1021,2024-09-06,nicole ruiz,danielsampson@example.net,uk,Keyboard,2.0,$66.37,pending,2024-09-08
+ORD1022,2024-09-28,benjamin acosta,kmiller@example.org,United States,Mouse,1.0,$192.55,pending,2024-09-30
+ORD1023,Jan 21 2024,david richmond,acowan@example.com,united states,Mouse,1.0,89.65,PAID,2024-01-30
+ORD1024,2024-07-21,  DENNIS HOFFMAN  ,jason20@example.com,United Kingdom,Laptop,3.0,$96.87,paid,2024-07-23
+ORD1025,03/08/2024,  ROBERT CLINE  ,myerspeter@example.com,canada,Keyboard,1.0,177.06,pending,
+ORD1026,2024-10-10,  AARON THOMPSON  ,bradleydeanna@example.org,United States,Mouse,1.0,$188.4,pending,2024-10-14
+ORD1027,06/24/2024,Jonathan Hernandez,kara82@example.net,United States,Monitor,3.0,106.03,Paid,
+ORD1028,03/07/2024,annette jones,ryanmiller@example.com,USA,Laptop,3.0,$40.7,paid,2024-03-17
+ORD1029,2024-07-08,Lee Davidson,torresalicia@example.net,USA,Keyboard,2.0,$91.66,paid,2024-07-17
+ORD1030,Jun 30 2024,  ASHLEY NELSON  ,halljeffrey@example.org,U.S.,Mouse,,195.03,paid,2024-07-08
+ORD1031,01/13/2024,David Dunlap,burkeabigail@example.org,U.S.,Keyboard,3.0,$158.65,Paid,2024-01-15
+ORD1032,01/20/2024,Jared Elliott,kherman@example.com,U.S.,Mouse,2.0,$47.92,paid,2024-01-27
+ORD1033,May 22 2024,Christina Kelley MD,thill@example.net,UK,Keyboard,3.0,76.72,Paid,2024-05-23
+ORD1034,May 13 2024,Madeline Hopkins,hortiz@example.net,Canada,Monitor,3.0,17.27,pending,2024-05-15
+ORD1035,10/22/2024,  MARY BECK  ,garymills@example.com,UK,Mouse,3.0,$18.43,Paid,2024-10-25
+ORD1036,2024-06-18,roberta george,mcculloughalexis@example.net,united states,Monitor,3.0,$136.04,PAID,2024-06-27
+ORD1037,2024-04-08,laura johnson,lstewart@example.com,UK,Laptop,,$138.69,paid,2024-04-14
+ORD1038,10/23/2024,alexis murray,obranch@example.org,uk,Mouse,3.0,98.35,PAID,2024-11-01
+ORD1039,2024-06-20,sandra thomas,melindaschwartz@example.org,USA,Mouse,2.0,137.83,pending,2024-06-21
+ORD1040,Feb 07 2024,  DOROTHY RUSSO  ,tyroneperry@example.net,uk,Monitor,,$178.37,paid,2024-02-14
+ORD1041,Jan 03 2024,paul riley,clowe@example.net,U.S.,Laptop,,$51.58,Pending,2024-01-04
+ORD1042,10/13/2024,Lauren Scott,stanleychristian@example.org,UK,Monitor,3.0,190.51,pending,2024-10-22
+ORD1043,2024-03-22,samantha cummings,allenchase@example.org,UK,Monitor,,59.25,PAID,2024-03-29
+ORD1044,May 26 2024,  ELIZABETH FISHER  ,andersonstephanie@example.net,US,Mouse,3.0,$73.81,paid,2024-05-29
+ORD1045,02/02/2024,nicholas hicks,parkskelly@example.org,CAN,Monitor,,72.87,pending,2024-02-08
+ORD1046,01/11/2024,  VALERIE RAMOS  ,austinsanchez@example.org,CAN,Monitor,,100.63,pending,2024-01-20
+ORD1047,04/22/2024,  SHANNON CORTEZ  ,stephen48@example.org,Canada,Monitor,2.0,61.86,Pending,2024-04-29
+ORD1048,Sep 30 2024,  RICHARD ANDERSON  ,benitezkelly@example.org,U.K.,Monitor,,$122.46,Pending,2024-09-30
+ORD1049,05/13/2024,Dr. Michelle Lewis DVM,carneyjulia@example.com,united states,Monitor,3.0,$50.22,Paid,2024-05-19
+ORD1050,2024-10-03,Stephen Jones,amanda49@example.net,USA,Mouse,3.0,$52.6,Paid,2024-10-03
+ORD1051,May 02 2024,christina barker,wilsonwalter@example.com,united states,Keyboard,,$137.2,pending,2024-05-04
+ORD1052,2024-02-28,ryan suarez,colleengarrison@example.net,CAN,Monitor,3.0,30.54,paid,
+ORD1053,May 04 2024,Vanessa Willis,mcphersonchristopher@example.org,United Kingdom,Laptop,3.0,$171.56,Pending,2024-05-05
+ORD1054,02/05/2024,laura turner,alison37@example.net,Canada,Monitor,3.0,12.4,Pending,2024-02-13
+ORD1055,Sep 24 2024,alexander hughes,ovaldez@example.net,uk,Keyboard,3.0,$127.02,paid,2024-10-04
+ORD1056,02/14/2024,Mrs. Janet Morgan,skirk@example.com,Canada,Laptop,,$56.33,PAID,2024-02-18
+ORD1057,Apr 18 2024,elizabeth morales,isimmons@example.net,USA,Mouse,3.0,$74.66,Pending,2024-04-23
+ORD1058,2024-05-03,  ELIZABETH JACKSON  ,mle@example.org,U.S.,Monitor,,95.15,PAID,2024-05-10
+ORD1059,Jul 07 2024,brooke greene,bmcgee@example.net,canada,Keyboard,3.0,$90.85,paid,2024-07-14
+ORD1060,Apr 08 2024,  CHRISTOPHER MILLER  ,janderson@example.net,U.S.,Monitor,1.0,$151.15,pending,2024-04-13
+ORD1061,2024-09-25,  ANTONIO TUCKER  ,george38@example.org,Canada,Mouse,3.0,$196.3,pending,2024-10-04
+ORD1062,2024-01-24,David Moreno,aprilmclean@example.net,United States,Laptop,3.0,142.51,Pending,2024-01-24
+ORD1063,06/23/2024,  JOHN DAVIS  ,qjackson@example.org,United States,Monitor,1.0,$57.97,pending,2024-06-25
+ORD1064,01/28/2024,  PAMELA LEVINE  ,cbarrera@example.com,U.S.,Laptop,2.0,164.12,Pending,2024-01-30
+ORD1065,04/25/2024,  ASHLEY MORSE  ,gary69@example.com,United Kingdom,Monitor,,$95.6,pending,
+ORD1066,2024-02-20,  ERIC THOMAS  ,jvaughn@example.com,US,Laptop,2.0,$60.28,Pending,2024-02-23
+ORD1067,Aug 28 2024,  DANIELLE MILLER  ,shellywells@example.net,canada,Laptop,1.0,53.98,PAID,2024-09-01
+ORD1068,Apr 11 2024,  KRISTEN TAYLOR  ,jason34@example.net,united states,Mouse,1.0,$113.47,paid,2024-04-17
+ORD1069,Oct 18 2024,valerie allen,crystal33@example.org,united states,Monitor,,$33.63,pending,
+ORD1070,2024-08-09,Joy Miller,mdominguez@example.com,United Kingdom,Laptop,3.0,14.91,PAID,2024-08-14
+ORD1071,2024-03-30,jill snow,kjohnson@example.org,canada,Laptop,,$184.05,Pending,2024-04-06
+ORD1072,02/23/2024,  AMBER SILVA  ,benjaminjonathan@example.com,CAN,Laptop,3.0,$88.21,PAID,2024-02-25
+ORD1073,Feb 29 2024,lisa robinson,christopher68@example.net,UK,Keyboard,1.0,134.96,Pending,2024-03-06
+ORD1074,01/27/2024,Nicole Rodriguez,hudsonkara@example.org,United States,Laptop,3.0,114.35,pending,2024-01-30
+ORD1075,2024-03-22,  DENISE JOHNSON  ,fwilliams@example.net,United States,Monitor,1.0,114.93,paid,2024-03-26
+ORD1076,05/29/2024,kurt bonilla,james17@example.net,UK,Mouse,3.0,$88.94,pending,2024-06-06
+ORD1077,03/10/2024,Ernest Murray,connorhayden@example.com,united states,Laptop,3.0,$156.81,PAID,2024-03-11
+ORD1078,10/23/2024,jennifer jackson,whiteheadmary@example.net,UK,Monitor,,$174.4,PAID,2024-11-02
+ORD1079,05/02/2024,  VICTORIA REEVES  ,gregorylee@example.com,uk,Monitor,,54.38,Pending,2024-05-11
+ORD1080,Mar 18 2024,christopher medina,kevinchapman@example.net,canada,Laptop,1.0,33.99,Pending,
+ORD1081,03/14/2024,David Sheppard,thomas30@example.net,U.K.,Laptop,2.0,24.22,pending,2024-03-20
+ORD1082,2024-06-11,steven richardson,coopercheyenne@example.com,U.K.,Keyboard,,175.75,Paid,2024-06-21
+ORD1083,Feb 20 2024,  ADAM ROY  ,osmith@example.org,USA,Laptop,1.0,$94.3,Paid,2024-03-01
+ORD1084,07/10/2024,Robert Schmitt,zallison@example.net,US,Mouse,2.0,$56.4,Pending,2024-07-16
+ORD1085,May 03 2024,  ASHLEY LAWRENCE  ,brianrodriguez@example.com,united states,Laptop,2.0,54.12,Pending,2024-05-10
+ORD1086,10/06/2024,andrew lopez,harrisontimothy@example.net,CAN,Keyboard,1.0,$93.93,PAID,2024-10-08
+ORD1087,Jul 15 2024,carolyn deleon,thomas78@example.net,uk,Keyboard,1.0,$55.07,Pending,2024-07-22
+ORD1088,Oct 16 2024,Tiffany Fuller,cgonzalez@example.net,united states,Mouse,1.0,183.02,PAID,2024-10-26
+ORD1089,Apr 07 2024,Robin Boyle,mauricefloyd@example.net,US,Laptop,3.0,138.78,Paid,2024-04-16
+ORD1090,2024-08-13,frank allen,bgregory@example.net,CAN,Mouse,3.0,$149.15,pending,2024-08-13
+ORD1091,07/06/2024,Bradley Small,oschmidt@example.com,united states,Keyboard,3.0,167.79,Pending,2024-07-14
+ORD1092,Mar 13 2024,Shelly James,chaseyolanda@example.org,USA,Keyboard,,193.78,Pending,2024-03-16
+ORD1093,05/14/2024,  ROBERT MENDOZA  ,xross@example.net,U.S.,Monitor,,$166.26,pending,2024-05-23
+ORD1094,04/23/2024,natasha williams,danielmiller@example.net,CAN,Laptop,1.0,$130.73,Paid,2024-05-03
+ORD1095,Sep 09 2024,  JASON WILSON  ,tgonzales@example.org,canada,Keyboard,1.0,54.61,pending,2024-09-10
+ORD1096,Mar 20 2024,Amber Rose,brian18@example.net,USA,Keyboard,1.0,$168.4,Pending,2024-03-26
+ORD1097,Jul 04 2024,dana matthews,perezkiara@example.org,U.S.,Laptop,3.0,113.45,Pending,
+ORD1098,04/18/2024,  DANIEL LARSEN  ,raymondchristy@example.net,US,Mouse,1.0,$19.61,pending,2024-04-28
+ORD1099,Apr 20 2024,  ALEXANDRA MARTIN  ,erika09@example.com,US,Mouse,3.0,157.13,paid,2024-04-23
+ORD1100,2024-01-14,michele phillips,adamskevin@example.com,united states,Laptop,1.0,$78.07,Pending,2024-01-16
+ORD1101,Feb 02 2024,susan kline,martinezjonathan@example.com,U.S.,Laptop,,157.82,pending,2024-02-09
+ORD1102,01/16/2024,dennis peterson,omartin@example.com,canada,Laptop,,170.99,PAID,2024-01-16
+ORD1103,Feb 03 2024,noah flores,frankjack@example.com,United Kingdom,Keyboard,3.0,$128.62,pending,2024-02-05
+ORD1104,2024-02-28,John Rivas,idavis@example.org,CAN,Monitor,2.0,91.71,PAID,2024-03-09
+ORD1105,05/10/2024,  KRYSTAL LOVE  ,josephjohnson@example.net,United States,Laptop,2.0,$140.5,PAID,2024-05-15
+ORD1106,10/11/2024,Mr. Edward Snyder,jeremy80@example.net,CAN,Laptop,3.0,137.3,pending,2024-10-11
+ORD1107,02/23/2024,  AMANDA CUMMINGS  ,juliefuller@example.com,United States,Keyboard,2.0,39.4,PAID,2024-03-03
+ORD1108,May 22 2024,Peter Stevens,ktorres@example.com,United Kingdom,Laptop,2.0,163.37,PAID,
+ORD1109,2024-05-19,david hayes,warrentheodore@example.com,CAN,Laptop,3.0,$76.69,Paid,
+ORD1110,09/28/2024,  CHARLES POLLARD  ,brownjennifer@example.com,united states,Keyboard,,89.77,pending,2024-10-01
+ORD1111,2024-01-27,michael maddox,owilcox@example.net,U.K.,Monitor,2.0,$153.34,Pending,2024-01-29
+ORD1112,2024-04-20,  MR. TRACY AYALA  ,kristie57@example.net,U.K.,Monitor,1.0,75.58,PAID,
+ORD1113,07/21/2024,Jasmine Palmer,robertrivers@example.com,united states,Keyboard,1.0,$11.46,Paid,2024-07-30
+ORD1114,Aug 08 2024,  BRENDA GAY  ,robertsvanessa@example.org,UK,Keyboard,2.0,$82.24,Paid,2024-08-10
+ORD1115,Aug 23 2024,Maria Greene,robert30@example.com,united states,Laptop,3.0,$119.39,PAID,2024-08-24
+ORD1116,2024-08-23,  HOLLY HILL  ,pamelaknight@example.org,United Kingdom,Monitor,1.0,92.98,Pending,2024-08-28
+ORD1117,2024-06-22,christopher ferguson,rhamilton@example.com,UK,Mouse,3.0,158.03,PAID,2024-06-25
+ORD1118,2024-03-16,  AARON WILSON  ,jeffrey72@example.com,US,Laptop,1.0,$37.82,Pending,2024-03-19
+ORD1119,Oct 15 2024,Anna Howard,walkertheodore@example.com,Canada,Keyboard,,$139.42,Paid,2024-10-24
+ORD1120,2024-06-04,stephen edwards,spencerbruce@example.org,USA,Keyboard,1.0,76.87,Paid,2024-06-08
+ORD1121,Feb 16 2024,Cameron Pruitt,moralesmonica@example.org,USA,Monitor,,97.92,pending,2024-02-25
+ORD1122,2024-06-13,Kelly Barnes,xdaniel@example.net,Canada,Laptop,,105.26,paid,
+ORD1123,08/12/2024,John Romero,aberry@example.com,U.K.,Laptop,2.0,79.14,PAID,
+ORD1124,Feb 18 2024,Ronald Bennett,alexander45@example.org,United Kingdom,Mouse,,$63.99,pending,2024-02-26
+ORD1125,Jun 28 2024,thomas roberts,whitakersarah@example.com,CAN,Keyboard,,34.5,pending,
+ORD1126,08/04/2024,  MICHELLE LAMB  ,elizabeththomas@example.net,U.S.,Keyboard,3.0,13.46,Pending,2024-08-12
+ORD1127,2024-03-11,cynthia conley,bentleytimothy@example.com,uk,Laptop,1.0,66.2,pending,2024-03-13
+ORD1128,Jul 11 2024,Michael Hall,tmurphy@example.com,US,Monitor,2.0,$44.36,PAID,2024-07-13
+ORD1129,05/01/2024,  ELIZABETH THOMPSON  ,zwright@example.org,U.S.,Keyboard,3.0,152.95,Pending,2024-05-08
+ORD1130,04/09/2024,alison baker,tyler66@example.org,CAN,Mouse,,97.72,pending,2024-04-14
+ORD1131,May 08 2024,Katelyn Hall,williamsnatalie@example.org,UK,Laptop,,$176.08,paid,2024-05-08
+ORD1132,2024-09-19,Mrs. Jennifer Nguyen PhD,williamstraci@example.net,USA,Monitor,,$27.43,pending,2024-09-21
+ORD1133,07/16/2024,Nicole Schmitt MD,paulamarks@example.com,U.K.,Keyboard,3.0,52.66,paid,
+ORD1134,2024-08-29,michael branch,rick72@example.com,U.S.,Mouse,,95.23,pending,2024-08-31
+ORD1135,2024-02-26,  BAILEY PETERSON  ,robertgonzalez@example.com,U.K.,Monitor,2.0,$67.22,Pending,2024-03-01
+ORD1136,01/09/2024,Elizabeth Williams,briannaadams@example.com,U.S.,Monitor,2.0,$146.52,Paid,2024-01-19
+ORD1137,07/03/2024,  DANNY LARSEN  ,gina60@example.net,CAN,Keyboard,1.0,$84.19,Paid,2024-07-04
+ORD1138,Feb 04 2024,  CASEY STAFFORD  ,qpaul@example.net,United Kingdom,Keyboard,2.0,$149.26,PAID,2024-02-09
+ORD1139,03/30/2024,Mary Allison,qgriffin@example.com,United States,Monitor,,$196.36,paid,
+ORD1140,Apr 12 2024,Austin Phelps,jorgedennis@example.org,canada,Keyboard,3.0,$187.34,paid,2024-04-12
+ORD1141,01/25/2024,jonathan bell,michaeljohnson@example.com,canada,Monitor,3.0,$61.91,paid,2024-02-04
+ORD1142,Sep 11 2024,andrea moore,johngomez@example.org,US,Keyboard,3.0,$162.22,Paid,2024-09-16
+ORD1143,05/31/2024,  HOLLY FARRELL  ,jessicaperry@example.com,canada,Keyboard,,$124.5,PAID,2024-06-04
+ORD1144,Aug 10 2024,dr. thomas weaver,petersenralph@example.org,uk,Mouse,1.0,24.26,paid,2024-08-14
+ORD1145,Aug 12 2024,tracy fowler,xrichard@example.org,United Kingdom,Laptop,2.0,22.77,Pending,2024-08-12
+ORD1146,Jul 09 2024,james noble,kelseygillespie@example.net,united states,Mouse,1.0,119.05,Paid,2024-07-16
+ORD1147,2024-09-12,  AMY LYONS  ,lori52@example.net,united states,Monitor,,$183.57,pending,2024-09-20
+ORD1148,2024-09-08,Teresa Sawyer,mooredanielle@example.com,canada,Laptop,1.0,35.79,PAID,2024-09-11
+ORD1149,2024-02-03,Michael Christian,michael93@example.org,U.K.,Mouse,3.0,179.35,pending,2024-02-11
+ORD1150,2024-04-12,seth johnson,ecooper@example.com,canada,Mouse,2.0,160.17,Paid,
+ORD1151,Jul 22 2024,  KAYLA BOWMAN  ,thomas50@example.net,Canada,Laptop,,$156.14,pending,2024-07-29
+ORD1152,2024-10-09,Jamie Morris,zmolina@example.com,USA,Laptop,2.0,155.88,PAID,2024-10-19
+ORD1153,Jun 14 2024,Anthony Barker,boydstephanie@example.net,united states,Mouse,3.0,190.02,pending,2024-06-17
+ORD1154,2024-06-04,sarah johnson,qmurray@example.com,US,Keyboard,1.0,105.49,pending,
+ORD1155,Jan 15 2024,  BRANDI GOMEZ  ,yjackson@example.com,U.S.,Monitor,1.0,190.22,Paid,2024-01-16
+ORD1156,Oct 06 2024,amber ellis,singletonkyle@example.com,uk,Laptop,3.0,$101.76,Pending,2024-10-10
+ORD1157,Apr 14 2024,Ryan Norton,eileenhernandez@example.com,Canada,Monitor,2.0,$69.39,PAID,2024-04-19
+ORD1158,02/24/2024,anthony foster,ifox@example.org,USA,Keyboard,2.0,98.63,pending,2024-02-29
+ORD1159,2024-03-22,jennifer foster,nbecker@example.com,canada,Keyboard,3.0,$46.07,Paid,2024-03-27
+ORD1160,09/15/2024,  ROBERT CONTRERAS  ,bmorales@example.com,united states,Monitor,2.0,50.88,Pending,2024-09-22
+ORD1161,01/05/2024,Kelly Pearson,sarah16@example.net,Canada,Laptop,,$35.45,pending,2024-01-06
+ORD1162,Jul 04 2024,stacey bridges,ihernandez@example.com,United Kingdom,Laptop,3.0,$23.97,Paid,2024-07-12
+ORD1163,2024-06-22,kathryn bell,jamiedaniels@example.net,USA,Laptop,3.0,$153.44,PAID,2024-06-30
+ORD1164,Sep 22 2024,  MICHELLE MARTIN  ,wmclaughlin@example.net,United Kingdom,Keyboard,2.0,$125.19,pending,2024-09-29
+ORD1165,Jun 02 2024,Catherine Douglas,imoran@example.com,united states,Monitor,3.0,106.39,PAID,2024-06-11
+ORD1166,Feb 26 2024,Jeffrey Edwards,vsmith@example.org,United Kingdom,Monitor,3.0,$161.38,pending,2024-03-03
+ORD1167,Jan 27 2024,Brenda Young,maureen90@example.net,CAN,Mouse,,42.4,paid,
+ORD1168,02/26/2024,  JAMES WEBB  ,mcleanamber@example.com,uk,Mouse,1.0,$93.8,pending,2024-02-29
+ORD1169,Feb 01 2024,edward rodriguez,davidstanley@example.com,US,Monitor,2.0,116.57,PAID,2024-02-03
+ORD1170,2024-05-15,  ROBERT ANDERSON  ,ksmith@example.org,united states,Mouse,,46.53,PAID,2024-05-24
+ORD1171,Apr 16 2024,David Mejia,mcdonaldkenneth@example.com,united states,Keyboard,3.0,$101.16,pending,2024-04-23
+ORD1172,07/21/2024,robert webb,beth16@example.com,canada,Keyboard,2.0,65.19,paid,2024-07-26
+ORD1173,Oct 02 2024,juan ward,anthonynunez@example.net,USA,Mouse,3.0,36.08,Paid,2024-10-06
+ORD1174,2024-06-18,  PATRICK ALEXANDER  ,jodiwest@example.org,UK,Mouse,1.0,$139.43,Pending,2024-06-25
+ORD1175,2024-04-12,brandon hart,oliverlisa@example.org,United Kingdom,Mouse,3.0,64.23,Paid,2024-04-16
+ORD1176,2024-03-30,phillip ray,claymegan@example.org,canada,Mouse,2.0,187.45,PAID,2024-04-05
+ORD1177,01/05/2024,  ALEXIS GARCIA  ,david13@example.com,U.K.,Monitor,1.0,186.41,paid,2024-01-09
+ORD1178,08/27/2024,  ERIN ROSALES  ,grantkyle@example.com,canada,Keyboard,2.0,163.67,Paid,2024-08-31
+ORD1179,May 31 2024,Katherine Charles,turnerdebra@example.com,UK,Keyboard,2.0,$43.34,Paid,2024-06-09
+ORD1180,2024-03-12,  CASEY SILVA  ,taylorbrenda@example.net,U.S.,Monitor,3.0,187.81,PAID,2024-03-19
+ORD1181,Oct 20 2024,  MOLLY GREEN  ,jacksongarrett@example.net,U.K.,Laptop,3.0,$134.2,paid,2024-10-20
+ORD1182,09/14/2024,amy flynn,joewilliamson@example.net,US,Monitor,1.0,$131.36,pending,2024-09-18
+ORD1183,Oct 08 2024,Sierra Perez,pcooper@example.com,United States,Monitor,2.0,154.75,PAID,
+ORD1184,Oct 15 2024,  SUSAN BOWERS  ,billydyer@example.net,UK,Mouse,1.0,$167.47,pending,2024-10-16
+ORD1185,Apr 15 2024,sara carlson,carrollnicholas@example.net,US,Monitor,,$27.28,Paid,2024-04-24
+ORD1186,2024-06-06,audrey gibbs,martineztamara@example.net,USA,Monitor,,$58.35,Paid,2024-06-06
+ORD1187,01/31/2024,  DONNA HARRIS  ,solomonshawn@example.com,US,Monitor,,$16.03,Pending,2024-02-01
+ORD1188,Jul 12 2024,kelly ortiz,adambell@example.net,Canada,Laptop,1.0,$139.72,pending,2024-07-18
+ORD1189,03/06/2024,John Thomas,icisneros@example.org,CAN,Monitor,1.0,153.67,paid,2024-03-09
+ORD1190,Mar 20 2024,amanda mcmahon,kyle66@example.org,U.K.,Monitor,2.0,188.11,Paid,2024-03-24
+ORD1191,Feb 04 2024,mary hebert,brianwolfe@example.net,uk,Laptop,1.0,$94.82,paid,2024-02-05
+ORD1192,Jan 29 2024,christopher riley,longkelly@example.net,U.K.,Keyboard,3.0,$54.49,paid,2024-01-31
+ORD1193,2024-09-23,jesse reed,victoria14@example.org,uk,Mouse,,67.1,Pending,2024-09-26
+ORD1194,01/25/2024,thomas king,meganpark@example.net,united states,Monitor,,$159.3,pending,2024-01-30
+ORD1195,2024-04-25,Mrs. Amanda Armstrong DDS,ryan82@example.org,UK,Mouse,2.0,$163.1,PAID,2024-04-29
+ORD1196,Feb 10 2024,carrie french,ramirezcheryl@example.com,CAN,Laptop,3.0,27.57,paid,2024-02-17
+ORD1197,10/27/2024,Michael Lopez,hmckinney@example.com,U.S.,Mouse,2.0,101.08,Paid,2024-11-06
+ORD1198,2024-09-02,Jocelyn James,cbell@example.net,CAN,Monitor,2.0,85.36,PAID,2024-09-05
+ORD1199,Jul 03 2024,Katie Wilson,bradley42@example.org,U.S.,Keyboard,,$98.54,Paid,2024-07-11
+ORD1200,Apr 23 2024,rachel ramsey,blackwelljacqueline@example.org,US,Mouse,1.0,$59.55,Pending,2024-04-25
+ORD1201,05/05/2024,Christine Wagner,russellbrenda@example.net,canada,Monitor,3.0,$58.89,PAID,2024-05-12
+ORD1202,Oct 06 2024,William Jackson,cserrano@example.com,UK,Laptop,2.0,184.21,Paid,2024-10-13
+ORD1203,Jan 25 2024,  LEON GUERRERO  ,katherine87@example.net,uk,Mouse,,$36.12,pending,2024-01-25
+ORD1204,2024-01-31,  MARK BRUCE  ,yking@example.com,UK,Monitor,,$135.26,pending,2024-02-09
+ORD1205,Oct 01 2024,Julia Smith,vegadalton@example.org,US,Laptop,1.0,105.42,pending,2024-10-05
+ORD1206,04/08/2024,michael huerta,joann37@example.net,CAN,Monitor,3.0,164.89,paid,2024-04-17
+ORD1207,02/11/2024,natalie mclaughlin,christinemercer@example.com,U.K.,Laptop,1.0,27.77,Paid,2024-02-21
+ORD1208,2024-08-10,Sheila Thompson,rodriguezdaniel@example.org,U.S.,Mouse,3.0,117.51,pending,2024-08-20
+ORD1209,Jan 24 2024,diana lee,vlittle@example.org,Canada,Laptop,3.0,180.87,pending,2024-01-25
+ORD1210,2024-07-22,Marcus George,joshua95@example.org,U.K.,Keyboard,3.0,$40.87,paid,2024-07-23
+ORD1211,02/10/2024,  WILLIAM FUENTES  ,timothyyoung@example.com,United States,Keyboard,3.0,20.2,pending,2024-02-18
+ORD1212,07/22/2024,rick williams,cdavis@example.net,CAN,Monitor,1.0,$130.48,pending,2024-07-27
+ORD1213,Feb 13 2024,  KELLY TAYLOR  ,rebeccagarcia@example.net,united states,Mouse,3.0,$161.63,paid,2024-02-22
+ORD1214,06/11/2024,Richard Perry,xlamb@example.com,United States,Mouse,1.0,$27.39,Pending,2024-06-16
+ORD1215,2024-10-11,scott hernandez,andrew84@example.net,United Kingdom,Keyboard,,29.63,Paid,2024-10-19
+ORD1216,2024-07-17,keith ward,ogutierrez@example.org,united states,Keyboard,2.0,$118.67,paid,
+ORD1217,2024-08-10,Bruce Mckenzie,ysolis@example.org,uk,Monitor,,66.95,paid,2024-08-14
+ORD1218,03/10/2024,meghan castro,lewistimothy@example.org,Canada,Monitor,1.0,$190.28,pending,2024-03-14
+ORD1219,2024-06-13,Ronald Garza,jamesfernandez@example.org,united states,Monitor,2.0,101.01,paid,2024-06-22
+ORD1220,May 23 2024,  SAMUEL BYRD  ,calvinpatterson@example.net,UK,Mouse,3.0,31.64,pending,
+ORD1221,Aug 24 2024,  MIRANDA GARCIA  ,robertgeorge@example.org,CAN,Monitor,,$161.56,PAID,2024-08-27
+ORD1222,Mar 19 2024,kathryn taylor,grahamalex@example.com,UK,Monitor,,24.05,PAID,2024-03-25
+ORD1223,2024-10-01,christine romero,carl94@example.com,U.K.,Laptop,1.0,30.78,Pending,2024-10-10
+ORD1224,06/18/2024,  TRACI LOPEZ  ,olivia13@example.org,uk,Mouse,1.0,$12.0,Pending,2024-06-24
+ORD1225,09/13/2024,  REBEKAH JONES  ,johnny57@example.net,CAN,Laptop,3.0,$199.56,paid,2024-09-15
+ORD1226,06/24/2024,carrie roberts,laura91@example.com,uk,Monitor,2.0,$109.01,PAID,
+ORD1227,Feb 28 2024,Adrian Sanchez,vrivera@example.net,uk,Mouse,3.0,133.11,pending,2024-02-28
+ORD1228,10/13/2024,michael marsh,rebeccalee@example.net,U.K.,Monitor,,$54.05,pending,2024-10-19
+ORD1229,Aug 18 2024,  JACQUELINE HARRISON  ,stephaniecasey@example.com,united states,Laptop,,83.88,pending,2024-08-27
+ORD1230,Jun 15 2024,pamela david,courtney80@example.net,U.K.,Keyboard,,31.65,pending,2024-06-18
+ORD1231,Feb 28 2024,  MARIE DUFFY  ,nicole90@example.com,U.K.,Keyboard,3.0,170.65,pending,
+ORD1232,2024-03-09,  DAWN JACKSON  ,tflores@example.org,uk,Mouse,1.0,55.33,Pending,2024-03-14
+ORD1233,Oct 21 2024,Nathaniel Perez,shane88@example.net,US,Mouse,,$45.29,paid,2024-10-27
+ORD1234,2024-08-18,diane parks,georgesavage@example.net,CAN,Monitor,1.0,$174.45,Pending,2024-08-27
+ORD1235,2024-08-15,alejandro wagner,shannonespinoza@example.net,USA,Keyboard,2.0,$25.71,PAID,2024-08-22
+ORD1236,2024-08-22,holly ramos,smithamanda@example.net,UK,Keyboard,,114.45,Paid,2024-08-31
+ORD1237,2024-08-13,Kathleen Lewis,drewbrown@example.net,U.S.,Keyboard,2.0,198.06,Paid,2024-08-21
+ORD1238,2024-06-27,alexandra brewer,valerie82@example.org,uk,Keyboard,,174.41,pending,2024-06-28
+ORD1239,2024-03-25,diane russell,rsmith@example.net,UK,Keyboard,2.0,159.12,paid,2024-04-03
+ORD1240,May 29 2024,Adriana Johnson,bclark@example.net,United States,Mouse,3.0,190.96,Pending,2024-06-02
+ORD1241,2024-05-21,  LAURA SHELTON DDS  ,laurensmith@example.com,uk,Keyboard,2.0,143.27,Pending,2024-05-31
+ORD1242,10/22/2024,Rodney Kelley,millersteve@example.com,United States,Monitor,3.0,129.28,PAID,2024-11-01
+ORD1243,2024-07-07,Jessica Nash,charleskemp@example.net,United States,Monitor,,72.18,PAID,2024-07-14
+ORD1244,2024-09-30,jessica barber,jacksontasha@example.com,united states,Keyboard,2.0,193.94,paid,2024-10-06
+ORD1245,Sep 05 2024,charles jones,wyattmary@example.net,United States,Mouse,1.0,$18.73,Paid,2024-09-10
+ORD1246,08/07/2024,  ERIC EDWARDS  ,simsnathan@example.net,united states,Laptop,2.0,177.61,PAID,
+ORD1247,Mar 25 2024,jessica watson,gomezbrianna@example.net,U.K.,Laptop,,128.86,Paid,2024-03-25
+ORD1248,02/09/2024,  KATIE ANDERSON  ,woodelizabeth@example.net,uk,Keyboard,2.0,108.69,Pending,2024-02-11
+ORD1249,Sep 01 2024,rhonda jackson,smithdeborah@example.org,Canada,Keyboard,2.0,$82.78,paid,2024-09-02
+ORD1250,2024-03-14,Timothy Martinez,hannaharmstrong@example.org,U.K.,Mouse,1.0,125.96,pending,2024-03-15
+ORD1251,2024-04-21,brooke torres,briangomez@example.net,CAN,Keyboard,1.0,36.6,paid,2024-04-22
+ORD1252,Feb 13 2024,  CHRISTOPHER DOWNS  ,cameronrobles@example.com,U.K.,Keyboard,3.0,$158.0,pending,2024-02-16
+ORD1253,2024-07-19,tara dawson,christopherwatts@example.com,canada,Laptop,1.0,158.92,Paid,2024-07-23
+ORD1254,Jun 11 2024,marcus duke,christine90@example.org,US,Monitor,,173.55,Paid,
+ORD1255,2024-02-04,kathleen vazquez md,wmay@example.com,united states,Monitor,3.0,$50.99,Pending,
+ORD1256,10/01/2024,  CHARLES DOWNS  ,muellerkrystal@example.com,U.S.,Mouse,2.0,62.72,Pending,2024-10-09
+ORD1257,2024-02-03,  AUTUMN REESE  ,mahoneyjames@example.com,United States,Monitor,,$148.69,pending,2024-02-07
+ORD1258,Jun 07 2024,  DERRICK MARTIN  ,rodriguezjane@example.net,USA,Mouse,2.0,$32.69,PAID,2024-06-17
+ORD1259,05/12/2024,richard hobbs,shannon26@example.net,USA,Keyboard,3.0,34.12,PAID,2024-05-14
+ORD1260,May 14 2024,hannah jenkins,ksalazar@example.net,United Kingdom,Mouse,1.0,$104.27,PAID,2024-05-23
+ORD1261,Oct 20 2024,  ANDREW GRAY  ,raymondriggs@example.com,USA,Mouse,1.0,$53.4,PAID,2024-10-30
+ORD1262,Mar 17 2024,robert middleton,nguyenrebecca@example.org,Canada,Mouse,1.0,$115.04,PAID,2024-03-19
+ORD1263,Feb 09 2024,robert alexander,matthew15@example.net,UK,Laptop,3.0,32.69,Paid,2024-02-18
+ORD1264,05/24/2024,  MELISSA ALI  ,jhernandez@example.com,U.S.,Keyboard,3.0,26.41,PAID,2024-05-28
+ORD1265,05/04/2024,Richard Li,cartererika@example.net,uk,Mouse,3.0,$122.42,Pending,
+ORD1266,2024-10-04,brian sanchez,watkinsmike@example.com,uk,Keyboard,1.0,$190.69,pending,2024-10-09
+ORD1267,2024-08-02,stephanie roman,lyonsjoseph@example.com,U.S.,Monitor,1.0,194.79,PAID,2024-08-09
+ORD1268,Feb 13 2024,annette sanchez,martinezchristopher@example.org,United Kingdom,Laptop,1.0,$106.03,paid,2024-02-22
+ORD1269,May 13 2024,oscar hunt,ksanchez@example.net,U.S.,Laptop,,143.14,paid,2024-05-18
+ORD1270,10/26/2024,joshua avila,garybrown@example.org,UK,Keyboard,2.0,30.07,paid,2024-10-27
+ORD1271,Aug 25 2024,Madison Ritter,qdelgado@example.org,United Kingdom,Laptop,1.0,$27.18,PAID,2024-08-29
+ORD1272,May 07 2024,  GRACE CLARK  ,shortjulie@example.com,US,Laptop,,107.56,Pending,2024-05-12
+ORD1273,2024-10-08,  ZACHARY DECKER  ,xtorres@example.org,USA,Mouse,1.0,$97.79,Pending,2024-10-11
+ORD1274,2024-02-13,  ANTHONY MEZA  ,stevensmary@example.com,United States,Mouse,3.0,184.31,Pending,2024-02-22
+ORD1275,02/17/2024,  ZACHARY GARCIA  ,obrowning@example.net,United Kingdom,Monitor,1.0,18.11,Pending,2024-02-22
+ORD1276,2024-07-14,jennifer king,clang@example.net,canada,Mouse,,$42.83,pending,2024-07-24
+ORD1277,05/31/2024,  LISA HARRIS  ,williamsalex@example.org,united states,Monitor,,$177.73,paid,2024-06-07
+ORD1278,Sep 26 2024,gregory sullivan,ramseykaitlin@example.com,canada,Keyboard,1.0,197.99,pending,2024-09-29
+ORD1279,2024-05-18,  MICHAEL MORGAN  ,norrisangel@example.net,united states,Laptop,1.0,70.59,Pending,2024-05-20
+ORD1280,Oct 26 2024,  DOUGLAS DAVIS  ,mary43@example.net,UK,Laptop,2.0,29.03,paid,2024-10-29
+ORD1281,Jul 17 2024,Joshua Jacobson,taylorsteven@example.net,Canada,Laptop,2.0,43.46,PAID,2024-07-22
+ORD1282,10/15/2024,jennifer johnson,nataliethomas@example.com,USA,Laptop,2.0,$168.97,pending,2024-10-17
+ORD1283,Sep 26 2024,  JESSICA LESTER  ,nicholas93@example.net,US,Keyboard,1.0,73.03,PAID,
+ORD1284,Mar 16 2024,Diana Richard,kimberlymiller@example.org,Canada,Monitor,2.0,157.13,PAID,2024-03-25
+ORD1285,03/10/2024,daniel gonzalez,stephanie73@example.com,UK,Keyboard,,$160.45,pending,2024-03-12
+ORD1286,Jul 12 2024,  JASMINE HENRY  ,ystout@example.com,uk,Monitor,3.0,34.2,pending,
+ORD1287,2024-06-11,clayton bowen,amanda78@example.net,uk,Laptop,2.0,$131.53,PAID,2024-06-20
+ORD1288,02/15/2024,  ASHLEY CHASE  ,simmonsrussell@example.com,uk,Laptop,3.0,$94.86,Paid,2024-02-25
+ORD1289,2024-01-25,erica levy,bridgetlopez@example.com,CAN,Keyboard,,149.19,Paid,2024-01-31
+ORD1290,2024-10-22,jeffrey duarte,vincent12@example.org,USA,Keyboard,2.0,$40.9,Paid,
+ORD1291,Mar 28 2024,Paul Miller,cody22@example.org,Canada,Monitor,2.0,149.08,Pending,2024-04-03
+ORD1292,2024-03-25,Kelli Perez,jacquelinebonilla@example.org,CAN,Keyboard,,39.85,PAID,2024-04-03
+ORD1293,01/26/2024,  KELSEY MICHAEL  ,christina83@example.com,United States,Keyboard,,39.18,pending,2024-02-01
+ORD1294,02/19/2024,karen smith,hansenchristina@example.net,United States,Keyboard,2.0,42.46,Pending,2024-02-19
+ORD1295,05/15/2024,gabrielle anderson,asmith@example.net,united states,Monitor,,$45.13,paid,2024-05-16
+ORD1296,Oct 15 2024,  JON RUSSELL  ,kmoreno@example.com,U.K.,Keyboard,2.0,152.92,Pending,2024-10-15
+ORD1297,Apr 26 2024,kiara wilkinson,barreraanne@example.net,canada,Mouse,1.0,$169.75,Paid,2024-05-04
+ORD1298,01/18/2024,  KATHLEEN BELL  ,torrestheresa@example.net,US,Mouse,2.0,32.85,paid,
+ORD1299,Feb 10 2024,  BARBARA JEFFERSON  ,marywarner@example.com,United Kingdom,Keyboard,,$48.36,Paid,
+ORD1300,Oct 11 2024,Lucas Thomas,coledaniel@example.com,uk,Monitor,3.0,$172.76,paid,2024-10-17
+ORD1301,2024-10-25,Ruben King,george50@example.org,Canada,Monitor,1.0,$116.91,Pending,2024-10-26
+ORD1302,2024-08-30,Jamie Brooks,baileywyatt@example.net,CAN,Laptop,2.0,$62.33,PAID,2024-08-30
+ORD1303,2024-01-26,Christie Harper,calderonrandy@example.com,united states,Keyboard,3.0,180.44,Paid,2024-02-02
+ORD1304,04/26/2024,jeff stone,jackwilkins@example.org,uk,Monitor,3.0,195.1,Paid,2024-04-28
+ORD1305,04/18/2024,michael hill,jessica02@example.com,US,Laptop,,$154.3,pending,2024-04-24
+ORD1306,2024-09-25,michael hunt,harveyjason@example.com,canada,Laptop,1.0,43.01,paid,2024-10-04
+ORD1307,2024-08-25,andrew rowe,marythomas@example.net,canada,Monitor,,$130.73,Pending,2024-09-02
+ORD1308,06/28/2024,Lisa Williams,brownheather@example.org,united states,Laptop,2.0,$169.15,paid,2024-07-03
+ORD1309,04/19/2024,brian caldwell,jbailey@example.net,U.K.,Laptop,2.0,$138.76,paid,2024-04-22
+ORD1310,01/05/2024,Zachary Riggs,wjohnson@example.org,united states,Monitor,3.0,125.59,PAID,2024-01-08
+ORD1311,Apr 21 2024,christine rose,samanthahamilton@example.com,UK,Keyboard,3.0,138.67,pending,2024-04-28
+ORD1312,06/01/2024,Michael Roberts,joanna43@example.org,united states,Keyboard,1.0,101.53,PAID,2024-06-11
+ORD1313,Sep 21 2024,william silva,jacob22@example.org,US,Laptop,1.0,163.03,PAID,2024-09-24
+ORD1314,Aug 02 2024,andrea jensen,brian84@example.net,U.S.,Keyboard,,149.98,paid,2024-08-08
+ORD1315,2024-08-31,Lisa Porter,bharris@example.net,US,Keyboard,3.0,$106.39,paid,2024-09-10
+ORD1316,2024-10-13,Luis Welch,johnstonmichael@example.com,united states,Monitor,3.0,134.34,PAID,2024-10-15
+ORD1317,10/26/2024,  ISABELLA THOMPSON  ,michaelcrane@example.com,U.K.,Laptop,,$171.73,paid,2024-10-30
+ORD1318,2024-07-14,  BENJAMIN DIAZ  ,davidwolfe@example.com,U.S.,Keyboard,3.0,$88.49,pending,2024-07-22
+ORD1319,2024-08-22,johnny hutchinson,bowenpamela@example.org,U.K.,Mouse,3.0,$173.85,Paid,
+ORD1320,2024-05-20,Laura Baker MD,smiththomas@example.com,United States,Mouse,2.0,119.49,Pending,2024-05-23
+ORD1321,2024-09-01,Laurie Hansen,wwilson@example.org,Canada,Mouse,1.0,$17.17,Paid,2024-09-07
+ORD1322,2024-05-07,collin patterson,melissarobinson@example.net,US,Laptop,3.0,69.3,PAID,2024-05-10
+ORD1323,Aug 21 2024,ryan scott,hharmon@example.com,canada,Keyboard,3.0,92.4,paid,2024-08-29
+ORD1324,2024-07-25,  JOHN DIXON  ,mary34@example.net,USA,Mouse,2.0,$52.62,Paid,2024-07-25
+ORD1325,2024-05-10,Wendy Clark,elizabeth25@example.net,USA,Laptop,1.0,122.85,Pending,2024-05-18
+ORD1326,2024-03-04,  JENNIFER MURPHY  ,zruiz@example.com,U.K.,Laptop,3.0,$100.14,Paid,2024-03-12
+ORD1327,2024-05-18,Marie Wright,coxstephanie@example.com,united states,Laptop,2.0,89.58,Pending,2024-05-27
+ORD1328,04/12/2024,  TIFFANY PIERCE  ,mary21@example.org,USA,Monitor,2.0,78.01,Pending,2024-04-16
+ORD1329,Jan 02 2024,kimberly preston,erika99@example.com,United States,Laptop,1.0,182.31,Paid,2024-01-02
+ORD1330,2024-04-28,  MARIA FINLEY  ,taylor80@example.org,US,Laptop,3.0,60.18,PAID,2024-05-05
+ORD1331,2024-06-09,  STACY GREENE  ,freemanjon@example.net,US,Mouse,1.0,$28.05,Pending,2024-06-15
+ORD1332,2024-05-17,  KATHY DANIEL  ,john16@example.net,CAN,Monitor,3.0,$164.84,Pending,2024-05-18
+ORD1333,Sep 01 2024,Eugene Taylor,ogrant@example.org,US,Laptop,2.0,$31.48,pending,2024-09-07
+ORD1334,10/18/2024,Christopher Bailey,wortiz@example.org,U.K.,Mouse,,$44.44,Pending,2024-10-28
+ORD1335,Jul 29 2024,Joshua Castillo,rdavis@example.com,U.K.,Mouse,1.0,22.03,PAID,2024-08-05
+ORD1336,Feb 18 2024,joanna bonilla,watsonstephanie@example.org,UK,Laptop,2.0,$101.57,paid,2024-02-24
+ORD1337,08/28/2024,sarah hancock,andrew79@example.net,united states,Laptop,2.0,24.22,pending,2024-09-04
+ORD1338,Jul 25 2024,Robert Shaffer,traceyshepherd@example.net,canada,Keyboard,1.0,$97.23,Pending,2024-07-28
+ORD1339,Jan 10 2024,Jackie Sullivan,amandastewart@example.com,United Kingdom,Keyboard,,88.34,pending,2024-01-11
+ORD1340,2024-08-21,brittany stuart md,erinwheeler@example.org,United Kingdom,Monitor,3.0,166.81,PAID,2024-08-26
+ORD1341,02/28/2024,Alicia Shaw,jeffrey38@example.org,united states,Keyboard,2.0,10.42,Paid,2024-02-29
+ORD1342,Sep 09 2024,  MICHAEL HILL  ,sandra81@example.org,United States,Monitor,,$30.32,paid,2024-09-11
+ORD1343,Feb 25 2024,Erik Rose,antoniostafford@example.org,canada,Monitor,1.0,186.06,pending,2024-03-02
+ORD1344,09/12/2024,katherine martinez,ashley00@example.net,UK,Mouse,1.0,115.11,paid,2024-09-12
+ORD1345,Mar 06 2024,brian brown,laurencarr@example.com,CAN,Monitor,,134.93,paid,2024-03-07
+ORD1346,2024-06-24,Calvin Moreno,megan67@example.net,uk,Keyboard,,162.91,pending,2024-06-28
+ORD1347,Oct 10 2024,Rebecca Perkins,llarson@example.net,U.K.,Mouse,2.0,48.17,paid,2024-10-20
+ORD1348,Jun 14 2024,Emily Hurst,amanda25@example.org,CAN,Keyboard,3.0,116.83,Pending,2024-06-15
+ORD1349,2024-09-24,cindy jones,vtran@example.org,US,Keyboard,1.0,82.37,paid,2024-09-25
+ORD1350,05/31/2024,  PAMELA FERNANDEZ  ,timothy45@example.org,U.K.,Mouse,1.0,78.15,pending,2024-06-03
+ORD1351,09/18/2024,Michael Barrett,hallamanda@example.com,U.K.,Keyboard,1.0,186.03,Paid,
+ORD1352,May 08 2024,Jennifer Villa,christineholder@example.net,United Kingdom,Mouse,,167.7,paid,2024-05-11
+ORD1353,2024-03-31,ryan williams,tiffanywheeler@example.com,USA,Monitor,1.0,$45.53,PAID,2024-04-10
+ORD1354,Oct 26 2024,joseph rogers,fmathis@example.net,Canada,Laptop,1.0,72.81,pending,2024-10-30
+ORD1355,Jun 03 2024,jason branch,christineashley@example.net,US,Laptop,3.0,23.85,paid,2024-06-10
+ORD1356,2024-10-01,albert brown,amber53@example.com,united states,Mouse,1.0,76.39,pending,2024-10-07
+ORD1357,10/14/2024,Ryan Ford,bsmith@example.org,United Kingdom,Mouse,1.0,31.8,PAID,2024-10-24
+ORD1358,02/28/2024,  ROBERT FUENTES  ,grossnicholas@example.com,UK,Keyboard,3.0,112.65,pending,2024-03-05
+ORD1359,2024-01-23,crystal middleton,crystalberg@example.org,UK,Laptop,2.0,70.86,paid,2024-01-27
+ORD1360,2024-04-19,Kevin Blake,miguelrivas@example.org,uk,Monitor,,168.78,Paid,2024-04-29
+ORD1361,2024-03-19,  MICHELLE WELLS  ,chenamber@example.com,USA,Mouse,,146.2,pending,
+ORD1362,Apr 26 2024,james dennis,andrea65@example.com,CAN,Laptop,,83.73,pending,
+ORD1363,Oct 26 2024,  JAMIE WILSON  ,kristinahayes@example.com,U.K.,Keyboard,1.0,77.96,PAID,2024-10-26
+ORD1364,2024-08-12,angela smith,elizabeth33@example.net,US,Monitor,,166.2,pending,2024-08-18
+ORD1365,2024-03-14,jeremy moore,joycebrown@example.com,United States,Laptop,3.0,$191.9,pending,2024-03-18
+ORD1366,Oct 07 2024,david stone,josephhall@example.org,CAN,Mouse,3.0,$49.91,paid,2024-10-08
+ORD1367,May 09 2024,Teresa Wise,rose31@example.net,UK,Monitor,1.0,44.46,Paid,2024-05-12
+ORD1368,Feb 04 2024,kelly smith,sandra52@example.com,US,Mouse,1.0,$47.51,pending,
+ORD1369,Apr 09 2024,Jeremiah Miller,james19@example.net,US,Keyboard,,95.62,Pending,2024-04-14
+ORD1370,Jun 09 2024,Katherine Graves,ejohnson@example.org,US,Keyboard,2.0,145.32,Pending,2024-06-12
+ORD1371,Jun 05 2024,  NICHOLAS RODRIGUEZ  ,melissarivera@example.org,united states,Mouse,1.0,43.4,paid,2024-06-12
+ORD1372,Feb 09 2024,  BARBARA SANDERS  ,lucaspaul@example.net,United Kingdom,Monitor,1.0,171.42,paid,2024-02-10
+ORD1373,2024-10-09,cory harris,michael10@example.org,United Kingdom,Keyboard,,$134.24,pending,2024-10-13
+ORD1374,Jul 22 2024,Heidi Cameron,erikamiller@example.net,US,Monitor,1.0,$135.91,pending,2024-07-27
+ORD1375,03/15/2024,  NICHOLAS LOPEZ  ,angelamiller@example.org,united states,Keyboard,3.0,$17.68,paid,2024-03-22
+ORD1376,2024-07-03,  MEGHAN MORALES  ,ohill@example.org,U.K.,Keyboard,,$184.4,pending,2024-07-09
+ORD1377,05/20/2024,Douglas Taylor,sydneyrussell@example.com,United States,Keyboard,2.0,$81.57,paid,2024-05-24
+ORD1378,Jun 29 2024,  MICHAEL MARSHALL  ,jessehawkins@example.com,US,Monitor,,$160.6,Paid,2024-07-04
+ORD1379,05/23/2024,Emily Krause,iryan@example.com,U.K.,Mouse,2.0,$45.51,PAID,2024-05-26
+ORD1380,Sep 03 2024,  BARRY NELSON  ,joshuaallen@example.org,CAN,Laptop,,$101.01,paid,2024-09-13
+ORD1381,2024-03-23,  FRANCISCO THOMAS  ,welchrobin@example.org,united states,Mouse,1.0,179.25,Pending,2024-03-25
+ORD1382,Oct 15 2024,david mejia,fgonzalez@example.com,United States,Mouse,1.0,$176.92,Pending,2024-10-25
+ORD1383,Mar 28 2024,hunter marshall,daniel82@example.org,U.K.,Keyboard,,$124.16,PAID,2024-03-31
+ORD1384,2024-02-05,  ANGELA MORALES  ,davidherman@example.com,UK,Monitor,,83.24,pending,
+ORD1385,Aug 31 2024,michael ortiz,nfischer@example.net,canada,Mouse,1.0,176.77,pending,2024-09-09
+ORD1386,2024-08-08,tonya taylor,dreed@example.net,canada,Monitor,,$80.37,pending,
+ORD1387,2024-03-09,  JAMES NGUYEN  ,melissabell@example.org,UK,Monitor,,$155.51,Paid,2024-03-13
+ORD1388,01/04/2024,Lisa Obrien,claudiaevans@example.org,Canada,Monitor,1.0,$108.75,paid,2024-01-13
+ORD1389,10/26/2024,Kristen Hayden,katherine23@example.com,U.K.,Monitor,3.0,172.45,Pending,2024-10-30
+ORD1390,Oct 12 2024,Brandon Clark MD,aliciasalinas@example.com,United Kingdom,Keyboard,2.0,80.34,Pending,2024-10-19
+ORD1391,2024-03-01,  MISTY ADAMS  ,melissa20@example.com,UK,Monitor,,158.79,pending,2024-03-04
+ORD1392,2024-01-27,Katie Garcia,kimberly94@example.com,canada,Monitor,,$193.27,PAID,2024-01-29
+ORD1393,02/10/2024,kristen gonzalez,gomeztammy@example.org,uk,Laptop,1.0,147.65,paid,2024-02-19
+ORD1394,Aug 12 2024,  MICHAEL WILLIAMS  ,qrandall@example.net,USA,Mouse,2.0,171.61,Paid,2024-08-12
+ORD1395,01/01/2024,thomas smith,jkelley@example.com,United Kingdom,Mouse,1.0,199.4,Paid,2024-01-03
+ORD1396,10/08/2024,  EMILY BRANDT  ,wvance@example.org,U.S.,Monitor,3.0,76.02,pending,
+ORD1397,Mar 30 2024,  DAWN MADDEN  ,timothypeters@example.com,United States,Keyboard,1.0,116.14,pending,2024-04-05
+ORD1398,08/14/2024,jenna higgins,marykim@example.net,canada,Laptop,,$156.29,PAID,
+ORD1399,04/22/2024,jennifer donaldson,tuckerchristian@example.com,USA,Keyboard,2.0,$162.03,Paid,2024-05-02
+ORD1400,06/24/2024,  LESLIE RAMOS  ,agray@example.com,United Kingdom,Keyboard,2.0,$100.55,paid,2024-06-25
+ORD1401,2024-04-12,  MICHELLE NGUYEN  ,sdiaz@example.org,U.S.,Keyboard,2.0,$175.82,Paid,2024-04-15
+ORD1402,Feb 10 2024,Renee Johnson,dochoa@example.com,Canada,Keyboard,,$126.63,pending,2024-02-20
+ORD1403,Sep 08 2024,  LORI CLARK  ,spencesamantha@example.net,UK,Monitor,3.0,$85.6,pending,
+ORD1404,2024-06-26,mary wood,johnsonmorgan@example.org,uk,Laptop,2.0,$96.87,paid,2024-07-02
+ORD1405,02/21/2024,  STEVEN CONWAY  ,mitchellalyssa@example.com,united states,Mouse,3.0,$126.43,pending,2024-02-26
+ORD1406,Apr 04 2024,linda foster,alexissmith@example.org,CAN,Keyboard,,$50.0,pending,2024-04-11
+ORD1407,Oct 21 2024,  IAN GATES  ,james40@example.net,U.S.,Monitor,2.0,164.7,paid,2024-10-31
+ORD1408,03/17/2024,  SHANE WRIGHT  ,caseyandrews@example.net,U.K.,Keyboard,1.0,43.56,PAID,2024-03-24
+ORD1409,2024-10-17,  MISS CINDY HICKS  ,garrettkevin@example.com,united states,Monitor,,28.81,Paid,2024-10-17
+ORD1410,Jun 20 2024,melissa cooper,allenkimberly@example.com,USA,Monitor,3.0,$78.46,pending,2024-06-24
+ORD1411,10/21/2024,David Bates,michael67@example.net,canada,Monitor,2.0,196.08,Pending,2024-10-31
+ORD1412,Aug 25 2024,chris miller,marcusodom@example.org,U.K.,Monitor,2.0,174.97,Paid,
+ORD1413,06/24/2024,John Bailey,morganlawson@example.org,CAN,Keyboard,3.0,70.21,PAID,2024-06-27
+ORD1414,2024-09-23,  EMILY CLARKE  ,leslie83@example.com,U.S.,Keyboard,,41.79,Paid,2024-09-30
+ORD1415,07/22/2024,jennifer shepherd,butlerdavid@example.net,CAN,Laptop,1.0,$22.12,pending,2024-07-23
+ORD1416,07/18/2024,duane miller,michael87@example.org,UK,Mouse,2.0,$57.01,PAID,2024-07-22
+ORD1417,Jun 15 2024,eddie moreno,sarah30@example.org,US,Mouse,,195.25,Pending,2024-06-22
+ORD1418,10/15/2024,Mario Fox,corey16@example.net,canada,Keyboard,3.0,$182.7,PAID,2024-10-21
+ORD1419,01/06/2024,Joshua Ramirez,courtneyburch@example.net,canada,Monitor,2.0,$75.34,Pending,2024-01-06
+ORD1420,Apr 28 2024,jeremy bauer,jerryfoster@example.com,uk,Monitor,3.0,45.83,paid,2024-04-28
+ORD1421,Aug 04 2024,Donna Johnson,dylanpittman@example.net,united states,Keyboard,2.0,$108.16,Paid,2024-08-14
+ORD1422,05/28/2024,lisa moore,torreschristine@example.net,Canada,Laptop,,$127.37,pending,
+ORD1423,02/22/2024,drew meyer,pdennis@example.net,US,Laptop,3.0,$33.76,PAID,2024-02-26
+ORD1424,2024-09-12,Tiffany Atkinson,todd98@example.net,US,Laptop,,$142.42,Pending,
+ORD1425,08/28/2024,Jonathon Flowers,zchavez@example.net,United States,Mouse,2.0,$180.18,Pending,2024-08-30
+ORD1426,2024-01-18,James Simmons,kerry66@example.net,canada,Monitor,,149.71,PAID,2024-01-21
+ORD1427,Mar 22 2024,mary hernandez,matthew24@example.com,U.K.,Keyboard,1.0,$151.5,Paid,2024-04-01
+ORD1428,04/21/2024,  DANIEL MCDOWELL  ,elester@example.com,united states,Laptop,2.0,$130.25,paid,
+ORD1429,2024-01-22,darrell castillo,luis41@example.org,US,Monitor,,$140.8,pending,2024-01-31
+ORD1430,Jan 31 2024,robert cohen,lisa19@example.net,canada,Mouse,3.0,$132.47,pending,2024-01-31
+ORD1431,06/26/2024,eric moore,anthony52@example.com,USA,Monitor,2.0,14.06,pending,2024-07-03
+ORD1432,09/07/2024,christy porter,colleenbrown@example.org,United Kingdom,Mouse,2.0,$113.29,paid,2024-09-10
+ORD1433,May 14 2024,Troy Nicholson,kristin37@example.com,USA,Keyboard,3.0,96.28,paid,2024-05-22
+ORD1434,Feb 02 2024,mrs. michelle carter,madelinesnyder@example.net,United Kingdom,Keyboard,,$46.08,PAID,2024-02-12
+ORD1435,2024-09-24,  ANITA JOHNSON  ,rebecca43@example.net,USA,Mouse,1.0,$18.32,paid,
+ORD1436,Oct 19 2024,heather ward,vargasjustin@example.com,USA,Keyboard,,$135.01,Paid,
+ORD1437,2024-04-16,Elizabeth Holt,johnflynn@example.net,Canada,Monitor,,186.4,Paid,2024-04-26
+ORD1438,05/16/2024,  KIMBERLY ZAVALA  ,denisestewart@example.net,U.S.,Laptop,1.0,$149.52,paid,2024-05-24
+ORD1439,2024-04-07,elizabeth bradford,robert67@example.com,uk,Laptop,2.0,118.31,pending,2024-04-10
+ORD1440,2024-08-22,terry fleming,xparker@example.org,UK,Keyboard,,177.74,pending,2024-09-01
+ORD1441,08/14/2024,brandon ayers,joseph47@example.com,U.K.,Monitor,3.0,114.52,PAID,2024-08-19
+ORD1442,Oct 15 2024,ian tyler,johnsonjulie@example.com,canada,Monitor,2.0,81.26,Paid,2024-10-23
+ORD1443,05/25/2024,  AUSTIN BAKER  ,bryantgabrielle@example.com,U.S.,Mouse,1.0,108.35,Paid,2024-06-03
+ORD1444,05/21/2024,christine cook,amberbenton@example.com,Canada,Mouse,2.0,$27.91,PAID,
+ORD1445,Jul 23 2024,ashley page,jonathanboyd@example.net,canada,Laptop,2.0,149.51,PAID,
+ORD1446,10/22/2024,Dakota Tanner,jfrye@example.com,CAN,Laptop,1.0,158.22,paid,2024-10-28
+ORD1447,Jan 06 2024,  JASON DELGADO  ,aaron62@example.net,UK,Mouse,,$20.28,paid,2024-01-16
+ORD1448,07/20/2024,michael taylor,holmesricardo@example.net,Canada,Laptop,1.0,$52.2,Paid,2024-07-27
+ORD1449,May 14 2024,  TIMOTHY GIBSON  ,chavezdeborah@example.net,US,Monitor,,105.35,Pending,2024-05-15
+ORD1450,10/19/2024,carrie santos,jimmy37@example.net,United Kingdom,Laptop,2.0,$56.04,Pending,2024-10-22
+ORD1451,Jun 27 2024,  JAMES RUIZ  ,hoganchristina@example.net,united states,Mouse,3.0,75.46,pending,2024-06-30
+ORD1452,2024-08-14,  EARL MILES  ,pgarcia@example.com,Canada,Mouse,2.0,93.69,Paid,2024-08-23
+ORD1453,01/28/2024,  LISA GOODWIN  ,adrienne04@example.org,uk,Laptop,2.0,$175.06,Pending,
+ORD1454,Apr 17 2024,albert krause,dthornton@example.net,United Kingdom,Mouse,2.0,48.72,Paid,2024-04-25
+ORD1455,09/26/2024,  KIMBERLY ROGERS DVM  ,claire82@example.com,uk,Keyboard,3.0,$42.36,Paid,
+ORD1456,2024-05-18,  JEFFREY SAUNDERS  ,watkinsmartin@example.org,U.K.,Monitor,3.0,$174.21,Pending,2024-05-28
+ORD1457,Feb 20 2024,  LOUIS PATEL  ,zleon@example.net,U.S.,Monitor,,174.69,Paid,
+ORD1458,Sep 28 2024,  DANIEL JOHNSON  ,ginamartin@example.com,Canada,Keyboard,3.0,$103.09,PAID,2024-10-02
+ORD1459,09/13/2024,Anthony Anderson,frazierjoel@example.org,USA,Keyboard,1.0,$128.9,PAID,2024-09-17
+ORD1460,Mar 11 2024,Steven Perez,justinjames@example.net,U.S.,Monitor,,$108.94,paid,2024-03-12
+ORD1461,2024-06-08,  TROY JONES  ,vbradley@example.com,US,Mouse,3.0,95.34,PAID,2024-06-17
+ORD1462,2024-09-25,robert simpson,josephcombs@example.com,US,Keyboard,,$199.18,pending,2024-09-27
+ORD1463,2024-03-01,Tamara Burke,jessicafitzpatrick@example.com,CAN,Monitor,3.0,$169.51,PAID,2024-03-03
+ORD1464,Apr 06 2024,Darrell Cook,hogandarren@example.org,United Kingdom,Mouse,2.0,45.1,paid,2024-04-07
+ORD1465,Jul 02 2024,Nancy Whitaker,dunnbrett@example.net,US,Monitor,,$35.48,paid,2024-07-03
+ORD1466,2024-04-25,Christopher Rose,mitchell87@example.org,U.S.,Mouse,,155.26,Paid,2024-04-25
+ORD1467,08/12/2024,anne lee,corey32@example.com,USA,Monitor,,140.69,Pending,2024-08-21
+ORD1468,10/19/2024,Michael Paul,morrismadison@example.org,U.S.,Monitor,1.0,108.92,Paid,2024-10-28
+ORD1469,09/21/2024,david cobb,joseph50@example.org,united states,Monitor,1.0,$46.07,PAID,2024-10-01
+ORD1470,Jan 28 2024,Jill Barrett,kimberlyjackson@example.org,United States,Mouse,2.0,98.08,pending,2024-02-05
+ORD1471,07/30/2024,Mary Collier,abigail09@example.org,U.S.,Monitor,,$14.73,PAID,2024-08-04
+ORD1472,03/24/2024,samantha tapia,rlogan@example.org,uk,Monitor,1.0,31.69,pending,2024-03-25
+ORD1473,2024-03-22,samantha rodriguez,stevensjoel@example.net,U.K.,Mouse,,$18.34,paid,2024-03-28
+ORD1474,01/27/2024,  MADISON FISHER  ,charlesjohns@example.net,US,Laptop,3.0,68.81,paid,
+ORD1475,05/09/2024,taylor diaz,tparker@example.net,canada,Mouse,,$104.55,Pending,2024-05-09
+ORD1476,Aug 14 2024,  JUSTIN SPARKS  ,reedashley@example.com,U.K.,Mouse,1.0,$56.5,paid,
+ORD1477,Jun 27 2024,Ashley Ruiz,karenmarshall@example.org,Canada,Laptop,2.0,$172.23,Pending,2024-06-27
+ORD1478,Mar 23 2024,stacy king,alleneric@example.org,UK,Mouse,3.0,126.11,pending,2024-04-02
+ORD1479,01/19/2024,Anthony Kelly,jadegonzalez@example.net,UK,Laptop,3.0,$71.34,paid,2024-01-20
+ORD1480,May 20 2024,  ANGEL THOMAS  ,nandrews@example.net,USA,Laptop,,109.68,pending,2024-05-25
+ORD1481,09/04/2024,  JOE GOODWIN  ,qmorris@example.net,United Kingdom,Keyboard,3.0,91.14,pending,2024-09-13
+ORD1482,2024-09-23,jennifer figueroa,ucrawford@example.com,united states,Mouse,,$103.58,Paid,2024-10-03
+ORD1483,03/01/2024,Daniel Moore MD,nadams@example.com,U.S.,Laptop,,88.67,PAID,2024-03-04
+ORD1484,02/04/2024,sara golden,richardsonkyle@example.net,Canada,Keyboard,3.0,$106.27,pending,2024-02-08
+ORD1485,01/15/2024,warren graham md,reidemily@example.org,canada,Laptop,2.0,72.8,Pending,2024-01-17
+ORD1486,08/23/2024,jose wright,davidcarney@example.net,UK,Keyboard,3.0,97.87,PAID,2024-08-31
+ORD1487,01/10/2024,  ARIANA AYERS  ,sharon07@example.org,US,Keyboard,3.0,161.91,PAID,2024-01-13
+ORD1488,2024-09-30,Natalie Griffin,brucelynch@example.net,uk,Keyboard,,45.6,PAID,2024-10-02
+ORD1489,09/11/2024,  YESENIA BAILEY  ,williamsandrew@example.com,united states,Mouse,3.0,$95.86,Paid,2024-09-14
+ORD1490,Feb 17 2024,  DEBRA COLEMAN  ,erikagarcia@example.net,Canada,Monitor,1.0,161.81,pending,2024-02-24
+ORD1491,Jun 16 2024,taylor morse,colonmiranda@example.com,uk,Laptop,1.0,$166.21,pending,2024-06-18
+ORD1492,2024-06-08,  THOMAS THOMPSON  ,donnagarcia@example.com,U.K.,Keyboard,1.0,$73.33,PAID,2024-06-08
+ORD1493,04/17/2024,Robert Mcdonald,williamsonkelsey@example.org,U.K.,Laptop,2.0,$46.58,paid,2024-04-22
+ORD1494,01/08/2024,dana holmes,davidhernandez@example.org,uk,Keyboard,1.0,49.25,paid,
+ORD1495,2024-06-22,Andrea Mcknight,jennifer91@example.org,United States,Monitor,,$19.64,Pending,2024-06-30
+ORD1496,2024-08-16,Zachary Nelson,kirbykathleen@example.com,UK,Laptop,3.0,69.36,Pending,2024-08-25
+ORD1497,Feb 17 2024,Carrie Joseph,acastillo@example.org,canada,Mouse,1.0,96.56,paid,2024-02-24
+ORD1498,May 12 2024,Eric Brock,bwhite@example.net,Canada,Monitor,,$44.84,Paid,2024-05-17
+ORD1499,06/28/2024,Mary Lee,michael74@example.org,US,Laptop,,$170.7,Paid,2024-07-05
+ORD1500,02/06/2024,  PETER MEDINA  ,pjohnson@example.net,U.S.,Mouse,,86.16,Pending,
+ORD1501,04/16/2024,todd ross,jacob51@example.com,uk,Mouse,,$159.02,Paid,2024-04-25
+ORD1502,10/20/2024,ricardo mcgrath,jamie99@example.org,canada,Mouse,1.0,$122.51,Pending,
+ORD1503,Feb 25 2024,rachel hubbard,suttonlouis@example.com,US,Laptop,,72.21,paid,2024-03-06
+ORD1504,May 29 2024,jessica lawson,hayleytyler@example.org,U.K.,Keyboard,,47.18,Pending,2024-06-04
+ORD1505,Jun 25 2024,matthew marshall,susan29@example.com,united states,Laptop,1.0,$126.18,pending,2024-06-26
+ORD1506,01/01/2024,laura douglas,longmichele@example.org,uk,Monitor,3.0,30.84,Pending,2024-01-09
+ORD1507,08/10/2024,  DAVID HUNTER  ,wandawalker@example.org,UK,Monitor,2.0,135.87,PAID,2024-08-18
+ORD1508,2024-03-19,theresa petersen,oscar76@example.com,canada,Monitor,2.0,35.51,paid,
+ORD1509,07/31/2024,eduardo patton,daviesrobin@example.org,canada,Monitor,,$128.42,paid,2024-08-07
+ORD1510,2024-01-04,kathleen coleman,lopezmichael@example.org,UK,Keyboard,,$170.89,Paid,2024-01-13
+ORD1511,2024-07-07,  MRS. KATHY JACKSON MD  ,robert85@example.net,uk,Keyboard,,$192.73,Paid,2024-07-08
+ORD1512,Feb 15 2024,beth tucker,dphillips@example.net,U.K.,Keyboard,,129.83,PAID,2024-02-18
+ORD1513,01/06/2024,brian hancock,alan15@example.org,Canada,Keyboard,,$107.41,Paid,2024-01-13
+ORD1514,06/04/2024,john collier,jeffreydennis@example.com,U.K.,Keyboard,3.0,21.67,pending,
+ORD1515,09/05/2024,  KEVIN BROOKS  ,stacymitchell@example.net,United Kingdom,Keyboard,2.0,$106.06,PAID,
+ORD1516,Feb 27 2024,  MICHELLE BURTON  ,patelandrew@example.net,canada,Keyboard,2.0,182.92,PAID,2024-03-07
+ORD1517,2024-04-30,alicia howard,christianortiz@example.org,US,Mouse,2.0,161.88,Pending,2024-05-07
+ORD1518,2024-05-01,  SYDNEY CRUZ  ,stricklandmichael@example.org,uk,Keyboard,,$147.94,PAID,2024-05-11
+ORD1519,02/29/2024,Frank Moore,thomasmaldonado@example.org,UK,Mouse,2.0,$98.16,Pending,2024-02-29
+ORD1520,03/15/2024,gordon jordan,kevinwilliams@example.com,UK,Laptop,,$12.25,pending,2024-03-23
+ORD1521,08/09/2024,ryan davis,zwilson@example.org,United Kingdom,Monitor,3.0,$73.64,paid,2024-08-18
+ORD1522,2024-04-09,samantha salinas,foxjustin@example.net,USA,Laptop,3.0,$138.77,Paid,2024-04-17
+ORD1523,08/16/2024,  ADAM LEONARD  ,barnesdaniel@example.net,USA,Laptop,2.0,$147.8,pending,2024-08-21
+ORD1524,2024-04-21,  MICHAEL SCHROEDER  ,wallerdebra@example.com,United Kingdom,Mouse,1.0,$144.53,pending,2024-04-30
+ORD1525,04/04/2024,michael vazquez,elizabeth49@example.org,canada,Keyboard,2.0,58.13,PAID,2024-04-05
+ORD1526,02/07/2024,teresa swanson,qmarshall@example.net,united states,Mouse,1.0,$82.73,Pending,2024-02-11
+ORD1527,04/12/2024,  CARMEN ONEAL  ,carl42@example.org,UK,Monitor,,$43.9,Paid,2024-04-21
+ORD1528,May 12 2024,Caitlin Weaver,jlee@example.org,USA,Monitor,1.0,$23.85,Paid,2024-05-13
+ORD1529,07/18/2024,lauren martinez,xmiller@example.com,canada,Monitor,2.0,$143.01,Paid,2024-07-22
+ORD1530,Jan 02 2024,hunter johnson,qwilliams@example.net,U.K.,Keyboard,,$33.03,Paid,2024-01-08
+ORD1531,06/23/2024,alan ramos,steven59@example.com,USA,Monitor,,154.49,PAID,2024-06-24
+ORD1532,Feb 24 2024,benjamin moore,torreskaylee@example.org,USA,Mouse,3.0,$102.44,pending,2024-03-05
+ORD1533,07/18/2024,jeffrey york,yharper@example.com,Canada,Laptop,3.0,$104.94,Paid,2024-07-19
+ORD1534,Apr 18 2024,  DESTINY JOHNSON  ,hfreeman@example.net,United Kingdom,Mouse,,188.62,Paid,2024-04-28
+ORD1535,Sep 07 2024,  EMMA KELLEY  ,gregoryreed@example.org,uk,Mouse,1.0,$99.53,Paid,2024-09-17
+ORD1536,2024-02-19,tamara johnson,karenthomas@example.net,canada,Mouse,2.0,$168.72,paid,2024-02-26
+ORD1537,Jul 24 2024,glenn rodriguez,phillipcox@example.com,U.S.,Laptop,1.0,195.41,PAID,
+ORD1538,05/20/2024,kevin richardson,ronnie22@example.com,United Kingdom,Laptop,,$41.93,pending,2024-05-22
+ORD1539,2024-03-21,  SARAH JACKSON  ,ybutler@example.net,United States,Keyboard,,$25.34,Pending,2024-03-21
+ORD1540,04/15/2024,  ALEXANDER VASQUEZ  ,haleshannon@example.net,US,Laptop,3.0,109.39,Pending,2024-04-17
+ORD1541,2024-02-15,julie thomas,jennifer04@example.org,UK,Laptop,3.0,76.09,pending,2024-02-25
+ORD1542,2024-08-25,  LISA SANTOS  ,aestrada@example.com,US,Monitor,2.0,$62.52,paid,2024-09-04
+ORD1543,01/23/2024,  JENNIFER BARBER  ,dickersonsheri@example.com,United Kingdom,Monitor,3.0,$64.16,Paid,2024-01-23
+ORD1544,2024-03-31,  TRACY WILLIAMS  ,dsaunders@example.org,U.S.,Monitor,1.0,102.16,PAID,2024-04-02
+ORD1545,2024-06-15,  SYDNEY BAUTISTA  ,sdavis@example.net,CAN,Mouse,1.0,$71.97,paid,
+ORD1546,2024-10-26,  ELIZABETH ONEAL  ,collinsmichael@example.net,United Kingdom,Monitor,1.0,$179.19,PAID,2024-11-02
+ORD1547,2024-04-09,jodi davis,washingtonmatthew@example.net,United Kingdom,Laptop,3.0,$195.36,Paid,2024-04-19
+ORD1548,2024-08-22,Kelly Webb,wayne80@example.org,U.K.,Mouse,2.0,154.46,pending,2024-08-28
+ORD1549,2024-02-14,Julie Liu,barrjonathan@example.com,united states,Laptop,,173.82,paid,2024-02-20
+ORD1550,Aug 10 2024,Vickie Chambers,ian16@example.net,USA,Monitor,2.0,179.45,Paid,2024-08-19
+ORD1551,09/15/2024,Alicia Dean,jacqueline23@example.org,United States,Monitor,,$110.91,Paid,2024-09-15
+ORD1552,01/07/2024,  CARMEN STEIN  ,cuevasbrittany@example.net,United States,Laptop,2.0,$35.22,PAID,2024-01-13
+ORD1553,08/23/2024,Robert Williams,davisrobert@example.net,CAN,Mouse,1.0,195.52,PAID,2024-09-01
+ORD1554,Jan 01 2024,thomas barajas,jonathanharper@example.org,CAN,Keyboard,1.0,83.13,pending,2024-01-11
+ORD1555,04/16/2024,misty reyes,christine88@example.net,U.K.,Keyboard,1.0,127.89,Paid,2024-04-26
+ORD1556,2024-08-26,Daniel Davis,halexander@example.net,UK,Mouse,1.0,$79.46,PAID,2024-09-04
+ORD1557,Feb 28 2024,Brandon Bush,laurawest@example.net,uk,Mouse,,$150.1,PAID,2024-03-09
+ORD1558,08/04/2024,sharon jensen,fbentley@example.org,United States,Monitor,1.0,22.04,pending,2024-08-08
+ORD1559,Aug 19 2024,Paul Phelps,wayne96@example.com,United States,Mouse,3.0,161.98,Pending,
+ORD1560,2024-07-19,  ALEXANDRIA MILLER  ,dakota12@example.com,united states,Laptop,3.0,192.07,Pending,2024-07-21
+ORD1561,Apr 14 2024,brenda martinez,elijahmays@example.net,Canada,Monitor,1.0,$65.7,Paid,2024-04-22
+ORD1562,Feb 02 2024,lawrence greene,morganperry@example.net,Canada,Keyboard,2.0,$168.64,pending,2024-02-02
+ORD1563,08/15/2024,  EDWARD BATES  ,rubenrichards@example.org,united states,Mouse,3.0,$117.78,PAID,2024-08-22
+ORD1564,2024-01-25,brian ramos,pcooper@example.org,UK,Keyboard,3.0,$64.03,paid,2024-01-27
+ORD1565,03/19/2024,eric benton,melanieray@example.org,Canada,Mouse,2.0,$32.21,Paid,2024-03-21
+ORD1566,2024-06-25,wendy coleman,karagordon@example.net,USA,Monitor,3.0,95.2,paid,2024-06-27
+ORD1567,Jun 12 2024,william hayden,deannamcconnell@example.net,uk,Keyboard,1.0,$194.33,PAID,2024-06-14
+ORD1568,Oct 20 2024,eric sampson,maynardlisa@example.org,uk,Laptop,2.0,161.92,Paid,2024-10-30
+ORD1569,Oct 09 2024,elizabeth rivera,clarkdaniel@example.net,United States,Keyboard,3.0,$14.71,paid,2024-10-10
+ORD1570,Apr 23 2024,Mr. Scott Mcclure,hallsabrina@example.org,United States,Monitor,2.0,$14.28,PAID,2024-04-27
+ORD1571,Sep 18 2024,charles pierce,hmartin@example.org,Canada,Laptop,3.0,$85.54,PAID,2024-09-18
+ORD1572,08/16/2024,meredith alexander,daniel80@example.com,canada,Keyboard,1.0,$50.98,Pending,2024-08-24
+ORD1573,07/31/2024,Thomas Smith,huntcarlos@example.net,Canada,Laptop,1.0,37.29,pending,2024-08-02
+ORD1574,02/15/2024,elaine reese,rmcdowell@example.net,uk,Mouse,,$131.37,Pending,2024-02-15
+ORD1575,09/08/2024,James Atkins,wmcdowell@example.org,U.S.,Laptop,3.0,168.57,paid,2024-09-08
+ORD1576,08/29/2024,Jessica Stone,james08@example.com,USA,Laptop,3.0,89.26,Pending,2024-08-30
+ORD1577,Feb 04 2024,christopher griffin,jeremytorres@example.org,U.K.,Monitor,3.0,120.4,Paid,2024-02-13
+ORD1578,2024-10-21,  MICHELLE BAKER  ,madisongriffin@example.com,canada,Mouse,3.0,$40.94,Paid,2024-10-21
+ORD1579,08/02/2024,Thomas Campbell,xblair@example.org,UK,Mouse,3.0,19.26,paid,2024-08-12
+ORD1580,Mar 26 2024,cristian perry,campbellamanda@example.net,uk,Keyboard,3.0,$175.76,pending,2024-04-03
+ORD1581,03/14/2024,kevin morales,stewartmark@example.com,US,Laptop,2.0,$108.45,pending,2024-03-14
+ORD1582,2024-04-06,  LISA PHAM  ,hglover@example.org,US,Laptop,1.0,$89.3,PAID,2024-04-14
+ORD1583,03/12/2024,  KELLY PHILLIPS  ,scott08@example.org,United States,Mouse,3.0,$42.72,paid,2024-03-19
+ORD1584,2024-06-06,Jimmy Richardson,hnguyen@example.org,United States,Laptop,2.0,$34.74,Pending,2024-06-08
+ORD1585,Jan 22 2024,stacy torres,dbishop@example.net,United States,Keyboard,1.0,$16.23,PAID,2024-01-25
+ORD1586,2024-02-19,  CHRISTINE CLARK  ,thomasfrederick@example.com,Canada,Laptop,2.0,$121.64,PAID,2024-02-20
+ORD1587,Jun 27 2024,matthew allen,sandrews@example.org,United States,Laptop,2.0,172.48,Paid,2024-07-02
+ORD1588,Apr 08 2024,  BRENDA BROWN  ,johnsonamber@example.net,uk,Laptop,2.0,181.32,pending,2024-04-12
+ORD1589,2024-08-31,  BRENDA THOMPSON  ,jennifer66@example.org,Canada,Monitor,2.0,$93.54,pending,2024-09-05
+ORD1590,Feb 27 2024,  NANCY BANKS  ,jefferythomas@example.net,Canada,Keyboard,1.0,98.52,Paid,
+ORD1591,Sep 09 2024,Michelle Hall,meganlee@example.com,canada,Mouse,,63.89,PAID,2024-09-10
+ORD1592,08/07/2024,henry jones,jessebrown@example.com,USA,Monitor,1.0,180.0,Pending,2024-08-10
+ORD1593,Feb 13 2024,judy moran,georgeguzman@example.net,US,Laptop,2.0,$85.01,paid,2024-02-14
+ORD1594,Jul 25 2024,Martha Hill,amandacruz@example.org,United Kingdom,Keyboard,2.0,169.24,Pending,2024-07-26
+ORD1595,07/26/2024,  DANIEL BECKER  ,bphillips@example.com,united states,Monitor,3.0,$38.0,paid,
+ORD1596,2024-01-28,Christopher Martinez,christopher43@example.net,US,Keyboard,,138.84,Paid,2024-01-29
+ORD1597,Sep 23 2024,brett allen,moonraymond@example.org,UK,Keyboard,,48.37,pending,2024-09-30
+ORD1598,01/17/2024,scott dixon,larsonkatherine@example.com,USA,Laptop,1.0,$82.89,PAID,2024-01-23
+ORD1599,Mar 25 2024,Kelly Roberts,pallen@example.com,United Kingdom,Monitor,,35.55,pending,2024-04-01
+ORD1600,08/31/2024,  GREGORY MURPHY  ,linrobert@example.com,United Kingdom,Monitor,2.0,106.27,PAID,2024-09-08
+ORD1601,2024-05-25,  KEVIN MALDONADO  ,mtaylor@example.com,Canada,Keyboard,1.0,15.35,pending,
+ORD1602,06/23/2024,shawn fernandez,omar40@example.com,U.S.,Mouse,1.0,$91.35,PAID,2024-06-29
+ORD1603,2024-02-03,alex duke,hbranch@example.net,U.K.,Monitor,1.0,74.14,Pending,2024-02-07
+ORD1604,08/28/2024,angela dunn,delgadochristy@example.net,United States,Monitor,1.0,$197.3,paid,2024-09-06
+ORD1605,09/14/2024,aaron craig,tyler46@example.org,canada,Laptop,3.0,41.66,pending,2024-09-24
+ORD1606,05/15/2024,Jasmine Pham,dianasmith@example.org,United States,Laptop,3.0,199.28,PAID,
+ORD1607,2024-09-28,dr. heather moyer,ericamendez@example.org,united states,Monitor,,49.85,PAID,2024-10-05
+ORD1608,Jul 24 2024,  TAMMY COLON  ,rhanson@example.com,USA,Mouse,,137.6,paid,2024-07-28
+ORD1609,Aug 27 2024,daniel foster,cindymartinez@example.com,Canada,Monitor,,$187.58,paid,2024-08-31
+ORD1610,2024-06-02,Mark Flynn MD,shawn10@example.net,united states,Keyboard,,70.54,PAID,2024-06-08
+ORD1611,2024-04-30,  ERIC GARRETT  ,patricia12@example.com,united states,Monitor,2.0,$31.58,Pending,2024-05-06
+ORD1612,2024-01-19,  JEREMY SCOTT  ,steeleamanda@example.com,united states,Mouse,2.0,61.82,Paid,2024-01-22
+ORD1613,2024-09-05,kristi price,laurenwright@example.org,United States,Monitor,1.0,173.32,Paid,2024-09-05
+ORD1614,Mar 12 2024,bruce lang,tanyajackson@example.org,United Kingdom,Keyboard,1.0,$118.48,Paid,2024-03-15
+ORD1615,Mar 03 2024,Jerry Allen,wroberts@example.org,U.S.,Monitor,3.0,$168.14,Paid,2024-03-08
+ORD1616,May 20 2024,  JOSEPH CLARK  ,barbaraanderson@example.com,UK,Keyboard,,58.32,Paid,2024-05-27
+ORD1617,2024-08-04,John Barnett,davisalicia@example.org,united states,Laptop,2.0,193.03,pending,
+ORD1618,01/28/2024,Beth Ryan,jesse08@example.org,Canada,Laptop,2.0,58.07,paid,2024-02-07
+ORD1619,07/17/2024,Patricia Castro,timothywatson@example.com,U.S.,Keyboard,,$186.23,paid,2024-07-17
+ORD1620,06/11/2024,Casey Baker,stevenbenitez@example.net,canada,Monitor,,159.97,PAID,2024-06-21
+ORD1621,02/21/2024,William Silva,donna56@example.org,UK,Keyboard,3.0,$106.2,Paid,2024-02-23
+ORD1622,2024-04-04,  BRIAN COOK  ,kevinhill@example.com,U.S.,Keyboard,,$160.29,Paid,2024-04-14
+ORD1623,May 07 2024,Carla Hancock,tina21@example.org,canada,Monitor,2.0,170.92,paid,2024-05-15
+ORD1624,06/16/2024,  AUSTIN DUNN  ,burnsmarissa@example.org,CAN,Mouse,2.0,$26.04,Paid,2024-06-20
+ORD1625,Apr 27 2024,william powers,yjordan@example.com,United Kingdom,Monitor,,47.67,paid,
+ORD1626,Jul 07 2024,Patricia Ramos,acastaneda@example.net,canada,Monitor,1.0,$12.68,paid,2024-07-09
+ORD1627,05/16/2024,Ashley Shelton,cburns@example.org,united states,Mouse,,$82.59,Pending,2024-05-20
+ORD1628,01/15/2024,taylor pearson,hubbardclifford@example.net,U.K.,Monitor,3.0,$54.74,Pending,2024-01-19
+ORD1629,Jun 14 2024,michael johnson,madison49@example.net,United States,Laptop,2.0,145.53,Paid,2024-06-20
+ORD1630,Apr 30 2024,carl welch,natasha91@example.com,uk,Laptop,3.0,$199.38,pending,2024-05-07
+ORD1631,Jun 03 2024,  JOSHUA GARCIA  ,brittany52@example.net,US,Keyboard,3.0,$35.13,Pending,2024-06-09
+ORD1632,Aug 27 2024,amanda franklin,ushaffer@example.org,Canada,Laptop,1.0,70.29,Pending,2024-08-29
+ORD1633,05/23/2024,Cindy Blackburn,zthompson@example.net,united states,Keyboard,,$63.76,paid,2024-05-28
+ORD1634,2024-09-08,  BRITTANY COLE  ,wendy97@example.org,US,Laptop,,$20.11,paid,2024-09-10
+ORD1635,08/11/2024,mrs. susan copeland md,huntstephanie@example.org,canada,Monitor,,$17.75,paid,2024-08-12
+ORD1636,2024-02-17,Richard Johnson,hsharp@example.net,United Kingdom,Mouse,3.0,44.32,Paid,2024-02-20
+ORD1637,2024-10-19,Sarah Stout,chase50@example.net,Canada,Laptop,,$184.88,Paid,2024-10-21
+ORD1638,02/24/2024,Carol Smith,jonathan32@example.net,canada,Keyboard,2.0,15.49,Paid,2024-02-29
+ORD1639,Jan 23 2024,Molly Levy,rhendrix@example.net,United Kingdom,Mouse,,$71.73,Paid,2024-02-02
+ORD1640,May 24 2024,paul allen,carly56@example.com,CAN,Keyboard,1.0,$151.32,Pending,
+ORD1641,04/16/2024,Darrell Pham,benjaminstrickland@example.net,US,Laptop,,$158.1,Pending,2024-04-18
+ORD1642,2024-06-07,ashlee goodwin,elizabethmorgan@example.com,canada,Monitor,2.0,78.22,Pending,2024-06-17
+ORD1643,Aug 04 2024,  NICHOLAS PALMER  ,wmosley@example.net,U.K.,Monitor,,$164.09,pending,2024-08-05
+ORD1644,Aug 25 2024,  MARY DUNN  ,julianking@example.com,canada,Laptop,2.0,$133.05,Pending,
+ORD1645,Sep 01 2024,Michael Fernandez,williamsgregory@example.com,UK,Monitor,2.0,$197.0,Paid,2024-09-05
+ORD1646,01/24/2024,  DONALD KNIGHT  ,psmith@example.org,U.K.,Keyboard,1.0,$107.02,pending,
+ORD1647,09/14/2024,  KIMBERLY ANDERSON  ,kmccall@example.net,US,Monitor,1.0,$150.7,Pending,2024-09-14
+ORD1648,06/01/2024,richard fuller,bellsara@example.net,US,Mouse,,$153.9,pending,2024-06-06
+ORD1649,2024-02-24,  AARON KIM  ,gmanning@example.org,U.K.,Monitor,1.0,$11.11,Pending,2024-03-01
+ORD1650,Sep 06 2024,Elizabeth Long,uashley@example.org,United States,Mouse,3.0,$141.23,paid,2024-09-10
+ORD1651,Jan 09 2024,  GREGORY GREEN  ,ewilson@example.net,U.S.,Monitor,1.0,49.75,pending,2024-01-12
+ORD1652,2024-06-03,  ROBERT BERRY  ,kennedytanya@example.com,US,Monitor,2.0,100.06,Pending,
+ORD1653,Aug 18 2024,emma jones,xthomas@example.net,Canada,Laptop,2.0,$48.25,Pending,2024-08-27
+ORD1654,09/10/2024,bethany huang,christine54@example.com,United Kingdom,Monitor,3.0,$17.03,Paid,2024-09-19
+ORD1655,08/04/2024,austin mcguire,cindy44@example.org,canada,Laptop,3.0,$115.12,PAID,2024-08-13
+ORD1656,2024-08-11,wendy roman,fryebrenda@example.net,UK,Mouse,2.0,64.72,PAID,2024-08-11
+ORD1657,08/27/2024,Evelyn Williams,jasondavis@example.com,U.K.,Keyboard,3.0,147.37,paid,2024-08-29
+ORD1658,2024-05-24,  ERICA TUCKER  ,andrew58@example.net,canada,Laptop,,34.53,Pending,2024-05-25
+ORD1659,04/17/2024,rebecca hamilton,cassandra78@example.org,US,Mouse,1.0,199.86,pending,
+ORD1660,2024-02-02,  AMY BROOKS  ,sarah44@example.net,U.S.,Monitor,,$31.65,PAID,2024-02-07
+ORD1661,Jan 24 2024,William Levine,mstafford@example.org,United States,Laptop,3.0,180.3,Pending,2024-02-01
+ORD1662,2024-02-26,april davis,johndavis@example.com,United States,Mouse,1.0,166.49,paid,2024-02-27
+ORD1663,2024-08-14,  SHANE SANTOS  ,oconnellmatthew@example.org,Canada,Keyboard,,149.18,Paid,2024-08-22
+ORD1664,08/12/2024,mary avila,martinezjulie@example.com,United States,Keyboard,1.0,$56.61,Pending,2024-08-18
+ORD1665,2024-05-05,paul baker,jenkinsjerry@example.com,CAN,Monitor,,159.57,pending,2024-05-07
+ORD1666,2024-07-04,ryan butler,wjoseph@example.com,United States,Laptop,,$37.66,Pending,2024-07-04
+ORD1667,2024-03-25,Kyle Sutton,lroy@example.com,United Kingdom,Laptop,1.0,84.72,pending,2024-03-31
+ORD1668,08/02/2024,patrick richards,gatesaaron@example.com,united states,Mouse,3.0,147.09,Pending,2024-08-08
+ORD1669,Oct 05 2024,derek petersen,james76@example.com,united states,Laptop,,$142.52,PAID,2024-10-14
+ORD1670,Mar 05 2024,jeffrey evans,mwillis@example.com,U.K.,Mouse,3.0,$50.61,pending,2024-03-13
+ORD1671,2024-05-03,Holly Barnes,jessica25@example.net,united states,Keyboard,,$197.52,Paid,2024-05-07
+ORD1672,2024-10-20,Brian Gonzalez,awatson@example.org,United Kingdom,Mouse,,$74.41,PAID,2024-10-20
+ORD1673,Oct 20 2024,crystal sanders,nicolecastaneda@example.net,UK,Mouse,2.0,145.73,PAID,2024-10-30
+ORD1674,2024-03-16,alyssa edwards,smithethan@example.net,U.S.,Monitor,,$25.57,pending,2024-03-22
+ORD1675,Oct 13 2024,robert weiss,sray@example.net,canada,Monitor,,175.68,Pending,2024-10-21
+ORD1676,03/14/2024,  JASMINE WEST  ,goodmanmark@example.net,uk,Laptop,2.0,102.11,Pending,2024-03-22
+ORD1677,2024-03-21,melissa orr,crystalgreen@example.org,United States,Keyboard,3.0,185.12,Paid,2024-03-29
+ORD1678,03/01/2024,  EDDIE FARMER  ,ghall@example.net,USA,Mouse,3.0,$198.29,pending,2024-03-06
+ORD1679,Jun 05 2024,sarah goodwin,catherine34@example.net,Canada,Laptop,2.0,44.78,Pending,2024-06-09
+ORD1680,06/07/2024,Gabriel Patrick,stevenmartin@example.com,United Kingdom,Mouse,,181.05,pending,2024-06-16
+ORD1681,Aug 18 2024,Kristi Anderson,deannaturner@example.org,U.K.,Monitor,,$38.31,Pending,2024-08-28
+ORD1682,Jan 24 2024,  JACQUELINE POTTS  ,bellbryan@example.net,US,Laptop,,149.82,PAID,2024-02-03
+ORD1683,Mar 04 2024,Daniel Nichols,alyssa89@example.org,United Kingdom,Mouse,1.0,46.56,pending,2024-03-14
+ORD1684,03/02/2024,jessica carney,whitejon@example.org,uk,Monitor,2.0,$192.85,pending,2024-03-12
+ORD1685,2024-07-24,william bowen,andrew05@example.net,USA,Keyboard,1.0,$103.38,Paid,2024-08-02
+ORD1686,2024-02-20,  BRIAN WALTERS  ,robert23@example.com,United States,Mouse,2.0,$64.22,Pending,2024-02-28
+ORD1687,Jan 31 2024,  LAURA HENRY  ,taylorbrown@example.com,CAN,Laptop,3.0,$44.48,Pending,2024-02-09
+ORD1688,2024-05-12,sean smith,dhayden@example.net,canada,Monitor,1.0,19.86,PAID,
+ORD1689,2024-08-25,victoria ray,alexanderkhan@example.org,USA,Keyboard,,22.44,pending,2024-09-02
+ORD1690,05/06/2024,Savannah Brewer,stephaniemoore@example.net,UK,Mouse,2.0,67.88,paid,2024-05-14
+ORD1691,Mar 27 2024,ruth mccarthy,allison63@example.net,canada,Keyboard,,192.66,paid,
+ORD1692,09/03/2024,Joy Mitchell,gbryant@example.com,U.S.,Keyboard,3.0,$169.5,pending,2024-09-07
+ORD1693,2024-06-02,Whitney Grant,gary28@example.com,CAN,Mouse,,142.7,PAID,2024-06-03
+ORD1694,Jun 24 2024,david larsen,wellswilliam@example.com,Canada,Keyboard,3.0,$196.13,pending,2024-07-04
+ORD1695,2024-03-09,Veronica Gordon,monica73@example.org,CAN,Monitor,1.0,125.67,pending,
+ORD1696,Feb 09 2024,anna wright,awilliamson@example.org,CAN,Keyboard,1.0,$179.59,Paid,2024-02-17
+ORD1697,Jul 08 2024,  DALE BISHOP  ,gerald31@example.com,united states,Keyboard,,$11.78,pending,2024-07-11
+ORD1698,2024-04-23,  AARON ANDERSON  ,jenniferyoung@example.net,uk,Mouse,,$193.79,Pending,2024-04-26
+ORD1699,2024-05-22,kevin thomas,caitlinwolfe@example.com,U.K.,Mouse,,$42.39,paid,2024-05-31
+ORD1700,Mar 06 2024,curtis jones,ebanks@example.com,U.K.,Laptop,2.0,177.39,pending,2024-03-10
+ORD1701,Oct 13 2024,Austin Powell,lvargas@example.com,Canada,Monitor,1.0,188.2,Pending,2024-10-20
+ORD1702,2024-09-22,jackson johnson,adamslauren@example.com,united states,Monitor,,78.68,PAID,
+ORD1703,2024-04-09,samuel davis,gonzalezcrystal@example.net,uk,Monitor,1.0,177.22,paid,2024-04-14
+ORD1704,2024-06-17,  MICHAEL HARDY  ,ycraig@example.org,CAN,Laptop,1.0,128.94,PAID,2024-06-21
+ORD1705,05/06/2024,Kayla Thompson,wonggeorge@example.com,UK,Mouse,,55.29,pending,2024-05-07
+ORD1706,2024-02-18,Adam Duke,justin38@example.net,CAN,Keyboard,,120.0,Paid,2024-02-28
+ORD1707,Feb 01 2024,marc fisher,stephanie48@example.org,USA,Laptop,1.0,$67.28,Pending,2024-02-08
+ORD1708,07/29/2024,Fernando Fields,tbishop@example.org,United Kingdom,Laptop,1.0,$96.15,Paid,2024-08-01
+ORD1709,2024-06-17,dylan little,patrickjay@example.com,U.S.,Mouse,2.0,30.52,PAID,2024-06-26
+ORD1710,2024-09-03,tara davis dds,jessicasmith@example.org,united states,Monitor,,45.33,PAID,2024-09-12
+ORD1711,Oct 04 2024,audrey rose,kmays@example.net,USA,Mouse,2.0,$99.21,pending,2024-10-06
+ORD1712,2024-10-13,taylor thompson,hoffmanmike@example.com,United States,Keyboard,,$75.33,Pending,2024-10-13
+ORD1713,Aug 27 2024,Maurice Durham,scott76@example.org,CAN,Keyboard,3.0,$171.88,Pending,2024-09-05
+ORD1714,Jan 22 2024,  DAVID BAKER  ,rebeccagarcia@example.org,U.S.,Monitor,2.0,184.79,paid,2024-01-29
+ORD1715,2024-06-18,lisa barrera,stephen13@example.net,USA,Laptop,2.0,$86.06,Pending,2024-06-24
+ORD1716,2024-10-26,  APRIL GARCIA  ,danielmartin@example.org,US,Mouse,1.0,195.31,paid,2024-10-31
+ORD1717,2024-10-10,John Wilson,hamiltonbrenda@example.com,USA,Mouse,2.0,$47.24,Paid,2024-10-13
+ORD1718,04/17/2024,Tiffany Tucker,chamberspaul@example.net,United Kingdom,Monitor,,55.63,Paid,2024-04-21
+ORD1719,Mar 07 2024,emily hansen,chelsea88@example.net,U.K.,Mouse,2.0,111.19,pending,2024-03-10
+ORD1720,2024-10-01,tami smith,michaelmyers@example.com,US,Monitor,2.0,$72.26,Paid,2024-10-05
+ORD1721,Feb 03 2024,andrea sutton,edwardwise@example.net,UK,Monitor,,$152.75,PAID,2024-02-05
+ORD1722,09/04/2024,Janice Ramirez,ugarrett@example.com,U.K.,Laptop,,$60.98,paid,2024-09-11
+ORD1723,04/30/2024,James Lopez,hannah40@example.com,Canada,Keyboard,2.0,68.14,paid,2024-05-06
+ORD1724,2024-05-31,Dr. Michelle Myers MD,danielle17@example.org,CAN,Monitor,3.0,$53.73,Pending,2024-06-07
+ORD1725,2024-09-11,amy dickerson,rguzman@example.com,United States,Keyboard,3.0,82.65,PAID,2024-09-16
+ORD1726,2024-09-19,  JEREMY PETERS  ,michaelaschultz@example.org,United States,Keyboard,1.0,$159.32,paid,2024-09-27
+ORD1727,Jun 17 2024,debbie lambert,rgregory@example.org,United Kingdom,Mouse,3.0,151.59,pending,2024-06-21
+ORD1728,01/05/2024,Thomas Copeland,richardslynn@example.org,U.K.,Laptop,3.0,$166.24,pending,2024-01-09
+ORD1729,Mar 17 2024,  JAMES LEE  ,lnovak@example.net,U.S.,Monitor,2.0,53.12,Pending,2024-03-23
+ORD1730,Feb 13 2024,william hall,terry72@example.com,UK,Laptop,2.0,$91.47,pending,2024-02-18
+ORD1731,06/05/2024,jamie erickson,xmoran@example.net,U.K.,Monitor,,163.98,pending,2024-06-05
+ORD1732,2024-10-27,Daniel Scott,tracyrice@example.com,United Kingdom,Monitor,1.0,185.21,paid,2024-10-27
+ORD1733,2024-02-02,Kimberly Patton,tinaparker@example.org,U.K.,Keyboard,,$45.78,Paid,2024-02-10
+ORD1734,2024-03-31,  KENDRA BASS  ,jameswilson@example.org,CAN,Keyboard,,$15.1,PAID,2024-03-31
+ORD1735,2024-02-05,  CINDY MOSS  ,cameronjennifer@example.com,CAN,Monitor,1.0,$80.04,Paid,2024-02-12
+ORD1736,2024-08-02,  KIMBERLY ALLEN  ,david21@example.org,U.S.,Keyboard,1.0,$83.91,Pending,2024-08-09
+ORD1737,Oct 21 2024,nicole campbell,annadickson@example.com,US,Monitor,2.0,$105.47,Pending,2024-10-25
+ORD1738,05/06/2024,jason bennett,wwilliams@example.org,uk,Laptop,3.0,$182.96,Pending,2024-05-14
+ORD1739,2024-06-01,Gina Porter,april54@example.com,canada,Monitor,2.0,88.86,paid,2024-06-07
+ORD1740,2024-02-18,  TAMMIE FOX  ,colton11@example.org,U.K.,Keyboard,1.0,55.54,Paid,2024-02-24
+ORD1741,Apr 21 2024,  KRISTIN BALLARD  ,dyoung@example.net,Canada,Laptop,,198.55,pending,2024-04-28
+ORD1742,2024-06-15,kelly martinez,annettemills@example.org,United States,Monitor,,$41.32,Pending,2024-06-21
+ORD1743,Jul 22 2024,sue rodriguez,kimberly54@example.com,uk,Monitor,1.0,$57.62,Paid,
+ORD1744,05/04/2024,melissa larsen,eturner@example.com,USA,Laptop,2.0,$99.45,Paid,2024-05-11
+ORD1745,2024-07-19,amy sullivan,anthonypeters@example.net,Canada,Mouse,1.0,$137.56,Paid,2024-07-21
+ORD1746,Sep 29 2024,Michael Bishop,amycollins@example.org,uk,Laptop,,$142.38,PAID,2024-10-02
+ORD1747,2024-01-03,karen curtis,travis48@example.com,United States,Laptop,,$155.75,Paid,2024-01-03
+ORD1748,2024-04-08,Nicole Flores,mariahhale@example.com,US,Mouse,1.0,$51.91,pending,2024-04-18
+ORD1749,Jun 16 2024,jasmine lopez,georgebrown@example.org,U.S.,Mouse,2.0,$128.69,PAID,2024-06-21
+ORD1750,2024-07-24,kimberly reyes,marvinpena@example.com,united states,Keyboard,3.0,$12.28,paid,2024-08-03
+ORD1751,2024-09-12,Danielle Rivera,brandon98@example.com,uk,Monitor,2.0,57.87,paid,2024-09-13
+ORD1752,2024-06-11,kristin erickson,fcruz@example.net,CAN,Mouse,,22.83,Paid,2024-06-21
+ORD1753,2024-03-04,willie anderson,jasonhenderson@example.net,Canada,Monitor,2.0,$150.2,paid,2024-03-08
+ORD1754,01/20/2024,  MELANIE SALAZAR  ,michael80@example.com,Canada,Laptop,,150.46,Pending,2024-01-23
+ORD1755,05/27/2024,joel foster,sally59@example.org,USA,Mouse,2.0,170.92,paid,2024-05-27
+ORD1756,Jul 14 2024,  FRANK MOYER  ,zacharyconrad@example.com,canada,Laptop,3.0,44.87,Paid,2024-07-22
+ORD1757,Mar 13 2024,Dustin Martin,brenda75@example.com,U.S.,Mouse,2.0,27.43,Pending,2024-03-16
+ORD1758,2024-06-08,bryan lin,robertlopez@example.org,United Kingdom,Monitor,2.0,56.54,paid,2024-06-10
+ORD1759,2024-09-03,stephanie zuniga,bushkrystal@example.com,United Kingdom,Monitor,3.0,85.67,Pending,
+ORD1760,07/14/2024,cameron farley,vsnyder@example.net,uk,Mouse,1.0,$154.18,Pending,2024-07-20
+ORD1761,2024-05-25,laura jackson,pearsonkelly@example.net,U.S.,Laptop,,$23.67,pending,2024-05-31
+ORD1762,07/10/2024,angela walker,richardwest@example.org,canada,Keyboard,,185.88,pending,
+ORD1763,2024-01-20,  KAYLA EDWARDS  ,marshalldaniel@example.net,CAN,Keyboard,,187.1,PAID,2024-01-21
+ORD1764,Sep 07 2024,jorge vincent,kristina57@example.com,U.S.,Mouse,3.0,$142.33,PAID,2024-09-17
+ORD1765,01/15/2024,robin hale,andrewpatterson@example.org,U.S.,Mouse,2.0,$59.65,Paid,2024-01-25
+ORD1766,2024-07-15,ian callahan,kelly03@example.net,CAN,Keyboard,1.0,108.52,pending,2024-07-21
+ORD1767,Jul 14 2024,lisa bridges,drose@example.org,United Kingdom,Keyboard,3.0,149.45,PAID,2024-07-23
+ORD1768,07/22/2024,  TERESA VASQUEZ  ,danieljackson@example.net,United States,Monitor,1.0,197.53,PAID,2024-07-26
+ORD1769,2024-03-28,  EVELYN ELLIS  ,ogeorge@example.org,US,Laptop,3.0,$45.42,paid,2024-03-30
+ORD1770,01/31/2024,Beth Barker,gutierrezbrianna@example.com,United States,Mouse,2.0,$59.28,Paid,2024-02-02
+ORD1771,2024-05-21,Mary Lynn,davismegan@example.com,United States,Laptop,3.0,$15.64,Paid,2024-05-22
+ORD1772,2024-01-22,jessica martin,robinsondavid@example.org,united states,Monitor,2.0,$109.24,PAID,2024-01-23
+ORD1773,2024-06-21,Luke Rosales,ssilva@example.com,CAN,Laptop,3.0,199.89,PAID,2024-06-26
+ORD1774,2024-01-02,  BRYAN CHAVEZ  ,rebecca76@example.org,United States,Keyboard,,147.79,paid,2024-01-09
+ORD1775,2024-08-31,William Castro,weberglenn@example.com,Canada,Laptop,,135.44,Paid,2024-09-08
+ORD1776,06/15/2024,Ms. Jennifer Reilly,padillacynthia@example.net,United States,Keyboard,,$54.38,Pending,2024-06-25
+ORD1777,Feb 21 2024,  ELIZABETH JACOBS  ,morriseileen@example.com,UK,Laptop,3.0,$125.36,Paid,2024-02-27
+ORD1778,2024-10-07,brad sullivan,thernandez@example.com,U.S.,Mouse,2.0,$180.32,Paid,2024-10-14
+ORD1779,01/15/2024,  JEREMY FLETCHER DVM  ,smithangela@example.com,united states,Monitor,3.0,181.5,Paid,2024-01-17
+ORD1780,Sep 30 2024,ronnie nash,michael82@example.com,United Kingdom,Laptop,,27.18,Pending,2024-10-10
+ORD1781,2024-07-14,  ANDREW MOORE  ,sandrarose@example.org,united states,Laptop,,$163.61,PAID,2024-07-24
+ORD1782,04/06/2024,george wilson,qbrown@example.com,USA,Keyboard,3.0,$34.21,pending,2024-04-07
+ORD1783,Jul 17 2024,curtis mccann,lisa68@example.net,U.K.,Mouse,3.0,$156.54,Paid,2024-07-23
+ORD1784,08/23/2024,nicholas howe,johnny81@example.com,canada,Mouse,2.0,165.07,paid,2024-08-28
+ORD1785,Jan 18 2024,  ANGELA YOUNG  ,valerie75@example.com,uk,Monitor,3.0,68.69,paid,2024-01-27
+ORD1786,Jul 11 2024,  WILLIAM WILEY  ,sanchezrachel@example.net,uk,Mouse,3.0,39.01,Paid,2024-07-11
+ORD1787,Apr 01 2024,barbara taylor,vreyes@example.net,USA,Monitor,,$66.83,Pending,2024-04-08
+ORD1788,07/19/2024,  DAVID JONES  ,fjohnson@example.org,U.S.,Monitor,1.0,$110.29,PAID,2024-07-25
+ORD1789,2024-10-24,craig wilkinson,darrell34@example.com,canada,Keyboard,3.0,96.93,paid,2024-10-24
+ORD1790,Apr 10 2024,  JEFFREY BOYD  ,amyshelton@example.net,US,Monitor,1.0,78.82,Pending,2024-04-20
+ORD1791,03/27/2024,  TAMARA FRANCO  ,copelanddavid@example.com,USA,Laptop,1.0,77.56,PAID,2024-03-27
+ORD1792,2024-03-17,  AMANDA BRADY  ,reyescarla@example.com,canada,Keyboard,,56.55,paid,2024-03-27
+ORD1793,Jul 11 2024,Savannah Harrell,robert46@example.org,canada,Keyboard,1.0,$157.77,Paid,
+ORD1794,Sep 07 2024,carlos matthews,landerson@example.net,uk,Laptop,2.0,14.38,paid,2024-09-17
+ORD1795,2024-08-10,Kristy Myers,michael45@example.org,UK,Mouse,2.0,$28.89,Paid,2024-08-14
+ORD1796,Oct 01 2024,Bonnie Woods,brownlaura@example.com,U.K.,Laptop,,22.15,paid,2024-10-09
+ORD1797,03/01/2024,blake garcia,braunmckenzie@example.net,US,Mouse,2.0,11.01,Paid,2024-03-03
+ORD1798,01/18/2024,steven baker,guzmantravis@example.com,U.K.,Laptop,1.0,$106.17,Paid,2024-01-19
+ORD1799,09/22/2024,dawn hernandez,anthonywarren@example.net,Canada,Mouse,,36.57,Paid,2024-09-26
+ORD1800,2024-04-06,Monica Mccarthy,shannongonzalez@example.com,U.S.,Keyboard,3.0,$172.66,pending,2024-04-08
+ORD1801,2024-10-08,lucas rose,hubbardrachel@example.com,united states,Monitor,3.0,82.54,paid,2024-10-12
+ORD1802,Feb 06 2024,William Silva,jordancrystal@example.net,United Kingdom,Mouse,3.0,$199.12,paid,2024-02-16
+ORD1803,2024-08-10,  JEFFREY LUCERO  ,erik12@example.net,United States,Laptop,1.0,193.16,Pending,
+ORD1804,2024-02-15,sandra fernandez,mmcdaniel@example.org,USA,Laptop,3.0,$157.83,paid,2024-02-20
+ORD1805,02/23/2024,Jasmine Mullins,cortega@example.net,United States,Keyboard,2.0,110.03,PAID,2024-02-24
+ORD1806,02/20/2024,  KAREN FOX  ,freyjeremy@example.com,uk,Monitor,2.0,$70.42,paid,2024-02-20
+ORD1807,Sep 19 2024,mr. danny lucero dvm,gabriel39@example.org,uk,Keyboard,2.0,37.11,paid,2024-09-21
+ORD1808,08/02/2024,alexandra barrera,cobbrichard@example.com,united states,Monitor,2.0,93.4,paid,2024-08-09
+ORD1809,2024-02-14,anna tucker,uobrien@example.com,U.S.,Laptop,,$156.41,Paid,
+ORD1810,2024-05-26,daniel jackson,wwarren@example.net,UK,Mouse,,$163.59,pending,2024-06-03
+ORD1811,2024-09-29,Mrs. Shannon Alexander MD,maryjames@example.com,uk,Monitor,,12.64,PAID,2024-09-30
+ORD1812,2024-09-27,Madison Donovan,reynoldsgarrett@example.org,UK,Mouse,1.0,$125.4,PAID,2024-10-07
+ORD1813,09/20/2024,  KIMBERLY CARPENTER  ,nsolis@example.net,United States,Keyboard,1.0,90.32,paid,2024-09-25
+ORD1814,03/01/2024,  NATALIE PADILLA  ,efleming@example.com,uk,Monitor,3.0,$101.79,PAID,2024-03-05
+ORD1815,09/20/2024,  JOHN CLARK  ,lewishannah@example.org,USA,Monitor,,$179.57,PAID,2024-09-20
+ORD1816,2024-06-28,david barnes,qsmith@example.org,UK,Mouse,,$77.36,Pending,
+ORD1817,05/08/2024,Mark Klein,maxwellcory@example.net,UK,Keyboard,,$85.12,Pending,2024-05-11
+ORD1818,08/12/2024,  JUSTIN PETERSON  ,zcampbell@example.net,uk,Mouse,2.0,$77.21,PAID,
+ORD1819,2024-07-21,Todd Baker,mflores@example.com,U.K.,Keyboard,3.0,$181.19,Pending,2024-07-27
+ORD1820,Mar 06 2024,caitlin richard,zachary02@example.org,United States,Laptop,,105.35,paid,2024-03-11
+ORD1821,09/13/2024,william haynes,jeffreyhuff@example.org,USA,Monitor,2.0,$19.89,PAID,2024-09-13
+ORD1822,2024-08-07,  STEPHANIE HUNT  ,clawrence@example.net,United States,Keyboard,2.0,148.56,paid,2024-08-10
+ORD1823,2024-08-07,tyler joyce,lmay@example.org,US,Mouse,,144.23,pending,2024-08-10
+ORD1824,2024-03-17,  PETER JOHNSON  ,anthonythompson@example.net,U.S.,Mouse,1.0,$35.14,pending,2024-03-20
+ORD1825,Jan 27 2024,hunter cherry,david34@example.net,Canada,Monitor,,$109.74,pending,2024-02-02
+ORD1826,01/27/2024,Ryan Woods,cindyramirez@example.org,U.S.,Keyboard,1.0,61.16,paid,
+ORD1827,01/27/2024,  JACK CLARK  ,danielle48@example.com,United Kingdom,Laptop,3.0,$50.28,PAID,2024-02-06
+ORD1828,Jul 05 2024,  KAREN RODRIGUEZ  ,ian23@example.net,UK,Mouse,3.0,$31.19,PAID,2024-07-10
+ORD1829,09/27/2024,  JOHN JONES  ,robert36@example.com,CAN,Laptop,3.0,55.27,paid,2024-10-06
+ORD1830,03/02/2024,linda butler,gregorymosley@example.org,UK,Keyboard,2.0,$46.66,Pending,2024-03-02
+ORD1831,2024-04-13,Lisa Ellis,mcgeecynthia@example.org,UK,Keyboard,2.0,18.32,Pending,2024-04-21
+ORD1832,Mar 01 2024,timothy russell,sanchezdiane@example.com,USA,Mouse,1.0,101.74,paid,2024-03-07
+ORD1833,10/16/2024,james thomas,thomas36@example.com,UK,Laptop,2.0,$150.74,pending,2024-10-16
+ORD1834,2024-07-18,  CRISTINA HOLDER  ,jacobcooper@example.net,U.S.,Laptop,3.0,49.32,pending,2024-07-24
+ORD1835,09/25/2024,chase boyd,qjones@example.org,US,Mouse,3.0,$171.97,paid,2024-09-29
+ORD1836,2024-03-16,gregory oconnell,hallmadison@example.net,U.S.,Laptop,2.0,$61.38,PAID,2024-03-20
+ORD1837,Jul 07 2024,  CHRISTOPHER CISNEROS DDS  ,longjason@example.com,US,Monitor,1.0,189.82,PAID,2024-07-12
+ORD1838,2024-01-30,michele hughes,david25@example.com,united states,Laptop,1.0,166.55,pending,2024-02-09
+ORD1839,Jul 14 2024,kenneth sheppard,monicalong@example.com,canada,Mouse,3.0,$175.3,paid,2024-07-24
+ORD1840,Jul 21 2024,yesenia brooks,henrymay@example.net,canada,Laptop,,$54.03,Pending,2024-07-23
+ORD1841,2024-03-31,richard miranda,bonillajennifer@example.org,US,Mouse,,189.24,pending,2024-04-03
+ORD1842,Mar 14 2024,eric wilson jr.,jonathanolson@example.net,UK,Mouse,,56.6,Paid,2024-03-15
+ORD1843,2024-07-12,Henry Roach,qrobbins@example.net,USA,Mouse,1.0,$30.91,Paid,2024-07-18
+ORD1844,01/07/2024,robert lee,humphreysamuel@example.org,US,Monitor,1.0,113.05,Pending,2024-01-07
+ORD1845,2024-06-06,richard baker phd,qmullins@example.com,UK,Laptop,,$39.36,Paid,2024-06-11
+ORD1846,2024-05-31,  JOSHUA MOORE  ,rangelcynthia@example.net,CAN,Monitor,,$36.95,PAID,2024-06-01
+ORD1847,2024-07-15,  MICHELLE POTTER  ,carterjamie@example.org,united states,Keyboard,1.0,$103.45,PAID,2024-07-25
+ORD1848,Feb 13 2024,nicholas sullivan,harrisonlauren@example.org,CAN,Mouse,2.0,43.83,PAID,2024-02-13
+ORD1849,05/26/2024,Ronald Terrell,elizabeth24@example.net,uk,Laptop,1.0,61.51,paid,2024-05-31
+ORD1850,Mar 16 2024,Bonnie Hardy,clarkestephanie@example.net,United States,Laptop,2.0,84.21,PAID,2024-03-21
+ORD1851,06/14/2024,dana lewis,hchandler@example.org,uk,Monitor,2.0,155.83,PAID,2024-06-16
+ORD1852,May 05 2024,jill andrade,gyoder@example.com,U.S.,Monitor,,$114.37,Pending,2024-05-11
+ORD1853,2024-04-22,david skinner,pamela07@example.com,UK,Monitor,2.0,78.72,Paid,
+ORD1854,2024-06-27,nathaniel boyd,gonzalesantonio@example.net,CAN,Mouse,2.0,$65.99,paid,
+ORD1855,2024-03-11,brittany knox,natashaturner@example.org,USA,Laptop,2.0,81.72,Paid,2024-03-12
+ORD1856,2024-03-21,  MELISSA LOGAN  ,jason14@example.com,USA,Monitor,2.0,$79.4,paid,2024-03-21
+ORD1857,Mar 12 2024,Tammy Cooper,sullivanhunter@example.com,uk,Laptop,3.0,$99.34,paid,
+ORD1858,2024-01-17,tanya cooper,mary31@example.net,canada,Keyboard,2.0,105.63,pending,2024-01-26
+ORD1859,2024-04-26,Timothy Anderson,walkergarrett@example.org,US,Mouse,2.0,$61.65,Paid,2024-05-02
+ORD1860,04/04/2024,Michael Gonzales,whayes@example.org,CAN,Monitor,1.0,$165.15,PAID,2024-04-12
+ORD1861,04/09/2024,Megan Turner,haledonna@example.com,USA,Mouse,1.0,$29.84,pending,2024-04-13
+ORD1862,04/18/2024,  CARRIE TAYLOR  ,carneyann@example.org,U.S.,Laptop,1.0,$153.74,Paid,2024-04-27
+ORD1863,10/16/2024,  VINCENT HAYDEN  ,amber98@example.org,united states,Laptop,,18.68,PAID,2024-10-16
+ORD1864,Sep 13 2024,christine brooks,julia58@example.net,U.K.,Laptop,3.0,$152.85,pending,2024-09-16
+ORD1865,2024-03-17,  ALYSSA HENRY  ,john88@example.net,US,Monitor,,$100.62,Paid,2024-03-17
+ORD1866,2024-04-28,scott torres,bethany78@example.com,uk,Keyboard,2.0,$156.08,paid,2024-05-01
+ORD1867,Jul 03 2024,jennifer robles,ashleyhopkins@example.com,U.S.,Laptop,,17.6,pending,2024-07-12
+ORD1868,09/11/2024,Scott Byrd,williamssarah@example.net,United States,Monitor,1.0,$37.1,PAID,2024-09-12
+ORD1869,05/31/2024,suzanne jones,cgonzalez@example.org,uk,Monitor,1.0,$63.22,Pending,2024-06-02
+ORD1870,Aug 14 2024,jacqueline davis,margaretkelly@example.net,united states,Monitor,2.0,$188.57,pending,2024-08-24
+ORD1871,Mar 07 2024,katie cooper,jacksonmelissa@example.net,U.K.,Monitor,3.0,107.37,PAID,2024-03-14
+ORD1872,2024-01-22,leroy moore,tricia24@example.org,US,Laptop,1.0,$150.8,paid,2024-01-31
+ORD1873,Feb 07 2024,  LINDA CHARLES  ,imurphy@example.com,canada,Monitor,,176.09,Pending,2024-02-10
+ORD1874,2024-04-02,scott young,michaelparsons@example.net,Canada,Monitor,,$155.96,Pending,2024-04-03
+ORD1875,2024-08-20,michael jefferson,jonescraig@example.net,USA,Monitor,2.0,$190.22,PAID,2024-08-20
+ORD1876,2024-08-30,Jessica Diaz,townsendmark@example.net,united states,Keyboard,1.0,50.18,Paid,2024-09-02
+ORD1877,May 20 2024,craig torres,robinsondawn@example.org,U.S.,Keyboard,1.0,$66.68,Paid,
+ORD1878,08/07/2024,andrew montgomery,espinozastephanie@example.org,UK,Mouse,3.0,41.26,Pending,2024-08-12
+ORD1879,Oct 19 2024,  KELLY ROMAN  ,stokescaitlin@example.net,uk,Mouse,1.0,$116.57,PAID,
+ORD1880,2024-08-22,Daniel Carey,qchaney@example.net,united states,Laptop,,174.22,paid,2024-08-24
+ORD1881,2024-10-23,susan morris,michael12@example.org,US,Monitor,1.0,$51.54,paid,2024-10-24
+ORD1882,2024-10-22,crystal williams,smithjason@example.org,United States,Monitor,3.0,164.62,Pending,2024-10-22
+ORD1883,06/29/2024,  JENNIFER KEMP  ,shawamanda@example.net,US,Monitor,,$109.4,paid,2024-07-04
+ORD1884,Mar 24 2024,benjamin stanley,velasquezlori@example.org,united states,Laptop,,82.5,Paid,
+ORD1885,Jan 09 2024,Crystal Williams,melissa89@example.org,United States,Monitor,,29.7,Paid,2024-01-18
+ORD1886,Aug 03 2024,jennifer hill,lynchamanda@example.com,canada,Laptop,2.0,$157.61,Pending,2024-08-06
+ORD1887,Jul 21 2024,  ROBERT KING  ,david71@example.org,U.K.,Keyboard,3.0,$158.62,Pending,2024-07-21
+ORD1888,2024-01-03,Jose Spencer DVM,arandall@example.com,UK,Keyboard,1.0,$12.95,pending,2024-01-09
+ORD1889,May 03 2024,jerry trujillo,berryhenry@example.com,United Kingdom,Monitor,,$46.61,Pending,2024-05-11
+ORD1890,03/29/2024,  TAMMY TAYLOR  ,zachary94@example.org,uk,Mouse,3.0,108.28,pending,2024-04-04
+ORD1891,2024-05-13,  JACLYN BARR  ,butlerdesiree@example.org,USA,Monitor,2.0,$190.25,pending,2024-05-21
+ORD1892,Oct 05 2024,  CHRISTOPHER VEGA  ,zoewaller@example.com,canada,Keyboard,,$14.81,paid,2024-10-06
+ORD1893,Oct 01 2024,  TYRONE WILLIAMS  ,brandon23@example.org,United States,Mouse,,156.37,pending,2024-10-04
+ORD1894,02/26/2024,  TROY NELSON  ,jerrywiggins@example.com,US,Laptop,1.0,$30.34,PAID,2024-03-04
+ORD1895,2024-04-16,mrs. vicki ramos,donald53@example.com,U.K.,Laptop,1.0,$103.3,Pending,2024-04-22
+ORD1896,2024-06-09,  JONATHAN PADILLA  ,ccoleman@example.net,US,Laptop,,$163.62,PAID,2024-06-19
+ORD1897,Sep 04 2024,  JOHN LOPEZ  ,christopherrice@example.com,United States,Mouse,1.0,40.09,pending,
+ORD1898,2024-09-19,kenneth anderson,nyoung@example.net,US,Mouse,2.0,$174.71,paid,2024-09-21
+ORD1899,Sep 03 2024,joseph wang,fheath@example.com,canada,Monitor,1.0,76.23,Pending,2024-09-06
+ORD1900,May 08 2024,  ANNA HOFFMAN  ,sfrazier@example.com,CAN,Laptop,2.0,140.54,pending,2024-05-10
+ORD1901,04/15/2024,bobby martinez,james05@example.com,Canada,Laptop,,177.74,Pending,2024-04-22
+ORD1902,2024-06-29,craig weiss,steven07@example.net,CAN,Keyboard,1.0,95.39,pending,2024-07-04
+ORD1903,01/16/2024,john woods,campbellandrea@example.org,United States,Mouse,2.0,163.72,PAID,2024-01-17
+ORD1904,2024-06-09,linda wilson,john41@example.org,United Kingdom,Keyboard,1.0,70.53,pending,
+ORD1905,2024-05-25,Peter Herrera,ambertodd@example.net,U.K.,Laptop,2.0,110.18,Pending,2024-06-03
+ORD1906,2024-08-10,randall garrett,jjackson@example.net,united states,Monitor,3.0,$47.65,Pending,2024-08-15
+ORD1907,2024-06-16,  JEFFREY AGUIRRE  ,andradegrace@example.com,U.K.,Laptop,,54.92,PAID,2024-06-25
+ORD1908,2024-07-25,  MARK MONTGOMERY  ,tschmitt@example.com,United States,Monitor,1.0,74.1,PAID,2024-07-25
+ORD1909,06/26/2024,douglas simpson,apriljohnson@example.com,united states,Monitor,1.0,$115.73,Paid,2024-07-02
+ORD1910,2024-02-22,  ALEXANDRA WILLIAMS  ,patrickjasmine@example.net,Canada,Monitor,2.0,$19.09,Paid,2024-02-22
+ORD1911,2024-07-07,  KENNETH FISHER  ,derrick21@example.com,USA,Laptop,1.0,$187.48,PAID,
+ORD1912,2024-06-17,james anderson,briandean@example.net,United States,Mouse,,$61.28,paid,2024-06-26
+ORD1913,Jul 30 2024,steven walker,sancheznathaniel@example.com,U.K.,Monitor,,136.96,PAID,2024-08-09
+ORD1914,09/04/2024,alex williams,fdudley@example.net,U.S.,Mouse,1.0,60.12,Paid,2024-09-07
+ORD1915,01/31/2024,allen watts,jennysalazar@example.net,United States,Keyboard,1.0,$137.39,pending,2024-02-03
+ORD1916,Sep 20 2024,  VIRGINIA PITTMAN  ,danielsmith@example.org,UK,Laptop,3.0,144.62,paid,2024-09-25
+ORD1917,2024-07-16,  HELEN SPENCER  ,lethomas@example.com,CAN,Mouse,2.0,158.2,pending,2024-07-23
+ORD1918,2024-03-16,  OLIVIA ELLIS  ,kellymeredith@example.org,canada,Mouse,1.0,$151.55,Pending,2024-03-23
+ORD1919,Aug 19 2024,  LORI GATES  ,lindsay02@example.org,CAN,Mouse,3.0,$32.48,pending,2024-08-24
+ORD1920,2024-06-19,  KIMBERLY BROWN  ,fmoore@example.org,CAN,Monitor,,$61.79,paid,2024-06-19
+ORD1921,2024-05-21,Kelly Mendez,oscar74@example.com,United States,Mouse,,$108.54,Paid,2024-05-29
+ORD1922,May 02 2024,mark hunter,chelseawood@example.net,CAN,Laptop,1.0,$62.34,PAID,2024-05-03
+ORD1923,Mar 28 2024,Christopher Carter,davidgonzales@example.org,United States,Mouse,3.0,131.01,pending,2024-03-31
+ORD1924,2024-06-05,  ZACHARY TUCKER  ,josephmiller@example.net,Canada,Monitor,2.0,$69.87,Paid,2024-06-08
+ORD1925,08/07/2024,ms. tiffany brown,david56@example.net,USA,Keyboard,1.0,43.73,pending,
+ORD1926,2024-05-06,Walter Lowe,cindy30@example.com,U.S.,Mouse,1.0,18.58,Paid,
+ORD1927,Jun 20 2024,  TRACY MCLAUGHLIN  ,qcollins@example.org,canada,Keyboard,,$149.61,Paid,2024-06-27
+ORD1928,Jun 03 2024,Brandy Smith,hwalter@example.net,US,Monitor,,31.42,paid,2024-06-08
+ORD1929,Jan 16 2024,  GARY POLLARD  ,amymorrison@example.net,CAN,Laptop,,78.29,pending,2024-01-19
+ORD1930,Aug 18 2024,christy smith,markbriggs@example.com,United Kingdom,Monitor,2.0,60.41,PAID,2024-08-26
+ORD1931,2024-01-22,michelle wilson,jsmith@example.net,Canada,Keyboard,3.0,$168.49,Paid,2024-01-31
+ORD1932,03/16/2024,John Williams,rebeccamoore@example.com,united states,Monitor,2.0,$109.41,PAID,
+ORD1933,2024-01-21,  JOSHUA AUSTIN  ,michael83@example.net,united states,Laptop,3.0,$166.84,Paid,
+ORD1934,Mar 11 2024,Chelsea Duncan,turnerscott@example.org,US,Laptop,3.0,159.2,paid,2024-03-16
+ORD1935,2024-04-10,christopher frazier,laurarobles@example.org,U.K.,Monitor,1.0,$65.25,Paid,2024-04-16
+ORD1936,06/03/2024,kyle porter,mmiller@example.com,United Kingdom,Mouse,3.0,42.93,paid,2024-06-12
+ORD1937,2024-08-01,  LANCE BISHOP  ,mark80@example.com,U.K.,Monitor,2.0,67.2,Pending,2024-08-09
+ORD1938,Aug 11 2024,Jonathan Charles,michaelaguilar@example.com,uk,Keyboard,2.0,$110.05,Pending,2024-08-12
+ORD1939,2024-07-29,scott rodriguez,meghanmartinez@example.org,US,Keyboard,1.0,183.39,pending,2024-08-05
+ORD1940,03/06/2024,  JOHN NELSON  ,caleb50@example.net,U.K.,Laptop,3.0,$20.17,pending,2024-03-15
+ORD1941,Jan 28 2024,  CRAIG SHEPPARD  ,bhenson@example.net,United Kingdom,Laptop,1.0,61.33,pending,2024-01-29
+ORD1942,Jun 18 2024,Bruce Williams,marshallricky@example.org,uk,Mouse,1.0,150.69,pending,2024-06-18
+ORD1943,Sep 10 2024,john williams,joshua29@example.com,united states,Laptop,2.0,180.06,pending,2024-09-12
+ORD1944,2024-02-28,ellen sullivan,yesenia95@example.com,United States,Monitor,1.0,$39.07,pending,2024-02-29
+ORD1945,2024-01-29,Joseph Hamilton,vjohnson@example.com,UK,Keyboard,3.0,86.87,Pending,2024-01-30
+ORD1946,2024-03-04,  MEGAN GOOD  ,jamesweaver@example.com,uk,Mouse,2.0,$130.88,pending,2024-03-10
+ORD1947,Sep 02 2024,Katherine Bowman,lisa01@example.com,CAN,Monitor,3.0,136.83,Paid,2024-09-06
+ORD1948,2024-08-05,brian madden,kellicarpenter@example.org,united states,Laptop,1.0,63.85,pending,2024-08-07
+ORD1949,06/30/2024,  CHRISTINA ESTRADA  ,thomasrodriguez@example.org,US,Keyboard,,177.66,pending,2024-07-02
+ORD1950,2024-09-25,Michelle Lawrence,brookerichardson@example.com,Canada,Monitor,1.0,43.15,paid,2024-10-01
+ORD1951,Jun 04 2024,Kathleen Mathews,robin59@example.com,United Kingdom,Mouse,1.0,184.07,pending,2024-06-10
+ORD1952,Sep 26 2024,matthew harvey,qdavis@example.org,United Kingdom,Monitor,2.0,$142.58,Paid,2024-09-30
+ORD1953,03/22/2024,mrs. julie smith dds,saunderseric@example.com,U.S.,Mouse,1.0,$136.4,paid,2024-03-25
+ORD1954,07/15/2024,  KRISTOPHER FARRELL  ,taylorgraves@example.com,uk,Laptop,1.0,$21.77,PAID,2024-07-21
+ORD1955,01/16/2024,Jose Simmons,jamescooley@example.org,United Kingdom,Mouse,3.0,$30.46,Pending,2024-01-18
+ORD1956,05/26/2024,Michael Hall,sarah94@example.com,U.S.,Laptop,2.0,151.01,Paid,2024-05-29
+ORD1957,Mar 12 2024,kelly odom,joseph87@example.org,US,Monitor,3.0,$157.13,paid,2024-03-12
+ORD1958,Aug 30 2024,Luis Hansen,nperez@example.org,canada,Monitor,3.0,77.73,Paid,2024-09-07
+ORD1959,03/06/2024,  RUSSELL LEACH  ,hamiltonlindsey@example.com,United Kingdom,Keyboard,3.0,$29.17,PAID,2024-03-14
+ORD1960,2024-05-08,billy sharp,kmassey@example.com,United Kingdom,Mouse,3.0,22.91,pending,2024-05-14
+ORD1961,2024-07-23,Leah Merritt,mackenzie02@example.org,united states,Laptop,1.0,$113.73,Pending,2024-08-01
+ORD1962,Jun 20 2024,Vicki Mcdonald,johnsonashley@example.net,USA,Mouse,2.0,$48.8,pending,2024-06-20
+ORD1963,Jan 19 2024,Raymond Torres,erik41@example.org,UK,Monitor,1.0,190.48,PAID,2024-01-24
+ORD1964,Feb 23 2024,monica cochran,mflynn@example.com,U.S.,Laptop,,106.44,Paid,2024-02-23
+ORD1965,Apr 10 2024,  DERRICK GARDNER  ,hayesjoshua@example.com,canada,Laptop,,$139.57,Pending,2024-04-18
+ORD1966,2024-08-08,Angela Perez,heathermarshall@example.net,Canada,Keyboard,2.0,$31.96,Pending,2024-08-14
+ORD1967,2024-05-01,Joshua Pacheco,gwilliams@example.org,UK,Laptop,1.0,121.84,Paid,2024-05-04
+ORD1968,05/07/2024,  JACQUELINE FERNANDEZ  ,davidbenson@example.com,USA,Keyboard,1.0,$20.76,paid,2024-05-07
+ORD1969,2024-03-07,mary odonnell,miguel59@example.com,UK,Mouse,,$100.95,PAID,2024-03-16
+ORD1970,Apr 22 2024,  JANET BRADY PHD  ,parsonslori@example.net,U.K.,Mouse,3.0,188.87,PAID,2024-04-29
+ORD1971,10/04/2024,Joseph Moore,santosrachel@example.net,united states,Laptop,1.0,$20.26,paid,2024-10-12
+ORD1972,2024-09-23,  DANIEL WILLIAMS  ,stevensonmichael@example.org,uk,Mouse,3.0,$150.96,paid,2024-09-26
+ORD1973,2024-08-20,  ANGELA JONES  ,rachel85@example.com,United Kingdom,Monitor,1.0,$104.79,Paid,
+ORD1974,07/15/2024,kenneth butler,pateljeffrey@example.org,CAN,Mouse,1.0,173.93,pending,
+ORD1975,Jun 05 2024,carol hamilton,gregorydaniel@example.com,united states,Mouse,3.0,188.07,PAID,2024-06-05
+ORD1976,Aug 10 2024,Jose Smith,mitchellchristine@example.com,U.K.,Keyboard,1.0,163.41,pending,2024-08-16
+ORD1977,10/20/2024,David Martinez,wsoto@example.org,U.S.,Mouse,3.0,40.88,PAID,2024-10-29
+ORD1978,05/20/2024,daniel carter,paynetaylor@example.org,United Kingdom,Keyboard,2.0,$156.55,PAID,2024-05-21
+ORD1979,01/07/2024,Isaac Knight,wrightlaura@example.com,canada,Monitor,3.0,$118.0,Paid,2024-01-08
+ORD1980,Jul 02 2024,tara shepard,daniellemorales@example.net,United Kingdom,Keyboard,2.0,87.64,Pending,2024-07-09
+ORD1981,May 21 2024,  HEIDI COOPER  ,jennifer11@example.org,United Kingdom,Laptop,,$34.17,Paid,2024-05-25
+ORD1982,Sep 16 2024,  HANNAH LEE  ,hannah44@example.org,uk,Keyboard,3.0,17.97,Paid,2024-09-23
+ORD1983,06/29/2024,  MARIA BLAIR  ,rhenry@example.net,UK,Monitor,1.0,$124.11,Paid,2024-07-07
+ORD1984,Jun 15 2024,Mrs. Misty Shelton,qharrington@example.org,united states,Mouse,3.0,$167.54,pending,2024-06-24
+ORD1985,06/20/2024,carol hayes,mitchelltaylor@example.net,USA,Keyboard,3.0,99.43,pending,
+ORD1986,04/18/2024,jason williams jr.,robinsonjason@example.org,uk,Mouse,3.0,$188.59,Paid,2024-04-23
+ORD1987,2024-04-24,steven osborne,mark51@example.org,USA,Monitor,,112.4,pending,2024-05-03
+ORD1988,05/17/2024,  JOSHUA PEREZ  ,powelljoyce@example.org,Canada,Mouse,3.0,$183.1,Paid,2024-05-20
+ORD1989,Aug 15 2024,Brad Burke,qcraig@example.org,U.K.,Monitor,3.0,25.14,Pending,2024-08-21
+ORD1990,2024-04-27,rachel nixon,carlos27@example.com,United Kingdom,Mouse,2.0,185.89,PAID,2024-05-06
+ORD1991,2024-03-01,Dawn Cox,mmcdaniel@example.net,U.S.,Mouse,,89.99,Paid,2024-03-02
+ORD1992,2024-08-02,Vanessa Melton,zacharygutierrez@example.org,USA,Mouse,,151.14,paid,2024-08-06
+ORD1993,09/28/2024,charles jackson,brendalambert@example.org,united states,Laptop,,$77.33,PAID,2024-10-04
+ORD1994,02/25/2024,Nicholas Wright,todd97@example.com,U.K.,Monitor,1.0,150.36,Pending,2024-02-25
+ORD1995,Sep 01 2024,Melinda Montgomery,benjaminnorris@example.net,United States,Mouse,2.0,147.5,pending,2024-09-03
+ORD1996,Aug 20 2024,rebecca murphy,shepherdcody@example.com,United States,Mouse,3.0,$93.33,PAID,
+ORD1997,09/22/2024,luke alvarez md,danieltaylor@example.com,US,Laptop,,64.2,paid,2024-09-30
+ORD1998,05/22/2024,  JENNIFER WILSON  ,christopheryoung@example.com,united states,Keyboard,3.0,$28.9,paid,2024-05-31
+ORD1999,May 27 2024,  GREGORY PHILLIPS  ,hsimmons@example.com,United States,Mouse,1.0,185.66,pending,2024-05-31
+ORD2000,Jan 15 2024,ashley guerrero,sabrina61@example.com,canada,Laptop,1.0,$192.37,PAID,2024-01-24
+ORD2001,10/19/2024,  TINA FIGUEROA  ,llin@example.org,United States,Laptop,,$108.97,Pending,2024-10-25
+ORD2002,2024-02-14,Cathy Moore,nicholas68@example.org,uk,Mouse,3.0,149.01,PAID,2024-02-16
+ORD2003,Jun 20 2024,paul rodriguez,devon37@example.com,uk,Keyboard,,129.82,Paid,2024-06-24
+ORD2004,Sep 23 2024,Emma Shaw DVM,wardrobert@example.org,U.K.,Laptop,2.0,$169.87,pending,2024-09-28
+ORD2005,2024-04-22,timothy hess,hjohnson@example.org,canada,Keyboard,2.0,$60.4,Paid,2024-05-02
+ORD2006,Apr 19 2024,Alexander Conway,jose56@example.net,USA,Monitor,,22.78,pending,2024-04-19
+ORD2007,Oct 25 2024,Donald Rogers,volson@example.net,U.S.,Keyboard,3.0,102.0,Pending,2024-10-28
+ORD2008,07/19/2024,  MEGAN HARMON  ,floreskurt@example.net,United States,Keyboard,3.0,$113.25,Pending,2024-07-28
+ORD2009,08/05/2024,michelle pacheco,rvargas@example.net,CAN,Mouse,2.0,98.3,Pending,2024-08-06
+ORD2010,2024-09-07,  STEVEN JAMES  ,greentracy@example.net,UK,Mouse,,140.57,Pending,
+ORD2011,06/14/2024,crystal reid,xdean@example.org,USA,Keyboard,3.0,$88.13,paid,2024-06-18
+ORD2012,Jan 24 2024,dana williamson,matthew81@example.org,U.K.,Laptop,,87.86,pending,2024-01-28
+ORD2013,2024-03-07,raymond torres,gilbertpeter@example.net,uk,Keyboard,1.0,190.55,pending,
+ORD2014,2024-01-26,Michael Lee,jthomas@example.net,CAN,Mouse,2.0,$78.8,paid,2024-02-03
+ORD2015,2024-06-18,mary johnson,lori33@example.net,USA,Laptop,2.0,115.06,Pending,
+ORD2016,May 24 2024,  JACQUELINE CLARK  ,joshua71@example.org,united states,Laptop,1.0,53.7,Pending,2024-05-28
+ORD2017,Mar 08 2024,Jeremy Gibson,wkennedy@example.org,CAN,Laptop,1.0,$24.54,pending,2024-03-12
+ORD2018,Mar 18 2024,Dr. Daisy Bell,manuel07@example.net,CAN,Laptop,,$46.91,Pending,2024-03-19
+ORD2019,05/15/2024,  MICHELLE DALTON  ,millerkevin@example.org,CAN,Keyboard,,$81.55,pending,2024-05-25
+ORD2020,07/14/2024,Wesley Nicholson,ystewart@example.net,canada,Mouse,,148.24,Paid,2024-07-14
+ORD2021,2024-04-28,dawn hudson,christina22@example.net,U.K.,Laptop,3.0,$100.59,paid,2024-05-05
+ORD2022,09/07/2024,joel crawford,loweclaudia@example.org,uk,Mouse,2.0,$25.94,Pending,2024-09-16
+ORD2023,Jun 08 2024,douglas robertson,samuel06@example.com,USA,Keyboard,2.0,16.94,pending,2024-06-13
+ORD2024,2024-10-06,Joseph Tate,richardsonjeff@example.org,UK,Laptop,3.0,192.3,Pending,2024-10-13
+ORD2025,Jul 11 2024,  MARISSA JACOBSON  ,phillipskevin@example.net,U.S.,Monitor,1.0,40.8,Paid,
+ORD2026,Aug 05 2024,Anthony Good,michellegaines@example.org,UK,Monitor,2.0,$128.97,PAID,2024-08-12
+ORD2027,May 30 2024,andrew kline,clementsvirginia@example.com,US,Mouse,3.0,$109.27,paid,2024-06-09
+ORD2028,2024-07-09,Rebecca Williams,michael34@example.net,uk,Mouse,3.0,$99.7,Pending,
+ORD2029,2024-08-01,jeffrey meyer,reginaldnunez@example.net,uk,Laptop,2.0,99.39,PAID,
+ORD2030,Aug 27 2024,adam kim,hdelgado@example.com,U.K.,Laptop,2.0,22.69,PAID,2024-09-05
+ORD2031,08/06/2024,deanna baker,ntucker@example.com,U.K.,Mouse,3.0,$79.78,paid,2024-08-15
+ORD2032,2024-04-20,  SANDRA RICHARDSON  ,trussell@example.com,UK,Monitor,2.0,$59.96,pending,2024-04-24
+ORD2033,2024-08-30,maurice sloan,kevinrodriguez@example.net,United Kingdom,Mouse,2.0,$10.51,Pending,2024-09-02
+ORD2034,06/14/2024,dana banks,lpage@example.net,united states,Laptop,1.0,$36.03,Pending,2024-06-15
+ORD2035,Jul 16 2024,edward collins,robinsonchristie@example.net,United Kingdom,Mouse,3.0,69.23,PAID,2024-07-23
+ORD2036,08/11/2024,dr. ashley mcfarland,brittany05@example.com,CAN,Keyboard,,$103.12,PAID,2024-08-19
+ORD2037,2024-06-26,paul cruz,natalieanderson@example.com,uk,Laptop,2.0,$127.23,PAID,2024-07-02
+ORD2038,01/03/2024,gary wilson,thomasgraves@example.com,USA,Keyboard,3.0,$72.41,PAID,2024-01-12
+ORD2039,2024-07-22,Eric Blankenship,willisdawn@example.org,uk,Monitor,3.0,62.09,Pending,2024-07-22
+ORD2040,2024-08-30,James Bates,pattersondaniel@example.org,uk,Mouse,1.0,17.26,paid,
+ORD2041,2024-03-02,Sherry Nguyen,maryguzman@example.net,united states,Mouse,,131.12,Paid,2024-03-02
+ORD2042,Jun 11 2024,Mark Smith,christianandrew@example.net,U.K.,Laptop,3.0,$108.1,pending,2024-06-13
+ORD2043,05/16/2024,Bryan Anderson,joshuamcintosh@example.com,CAN,Mouse,2.0,94.25,Paid,2024-05-17
+ORD2044,Oct 14 2024,mrs. mary mata,singhbrandon@example.com,canada,Laptop,1.0,$74.88,Paid,2024-10-19
+ORD2045,2024-02-14,Thomas Morris,knoxstephanie@example.net,U.S.,Keyboard,3.0,$122.32,paid,2024-02-16
+ORD2046,Apr 07 2024,  JOSEPH GREER  ,christianshelton@example.net,united states,Mouse,3.0,20.13,Pending,2024-04-09
+ORD2047,04/06/2024,  DONALD MCDONALD  ,pattersonjames@example.org,canada,Keyboard,2.0,$43.65,PAID,2024-04-10
+ORD2048,Jun 27 2024,patrick maldonado,abryan@example.net,United Kingdom,Monitor,,$167.61,pending,2024-07-07
+ORD2049,Aug 10 2024,carol edwards,david09@example.com,uk,Keyboard,3.0,$49.41,paid,2024-08-15
+ORD2050,Aug 27 2024,russell wright,howelltina@example.net,US,Monitor,1.0,185.16,PAID,2024-08-31
+ORD2051,2024-01-18,  RICKY WOLF  ,john62@example.net,canada,Keyboard,1.0,$129.6,Paid,2024-01-23
+ORD2052,2024-07-02,morgan morris,websteranna@example.org,United Kingdom,Monitor,2.0,98.7,Pending,2024-07-06
+ORD2053,Aug 30 2024,Valerie Boyd,sarah75@example.com,united states,Laptop,3.0,147.44,paid,2024-09-02
+ORD2054,09/16/2024,william martin,anita20@example.net,USA,Mouse,,90.92,PAID,2024-09-17
+ORD2055,09/25/2024,michael walter,julia28@example.org,United States,Keyboard,2.0,34.68,paid,2024-09-28
+ORD2056,Aug 22 2024,  BRITTANY ANDERSON  ,jacqueline24@example.org,US,Keyboard,2.0,$97.51,paid,2024-08-28
+ORD2057,2024-04-14,Tonya Green,katiesantiago@example.org,Canada,Laptop,1.0,$147.59,PAID,
+ORD2058,10/08/2024,Leslie Brooks,melissastewart@example.org,uk,Mouse,,142.77,Paid,2024-10-18
+ORD2059,06/11/2024,Robert Young,michael76@example.net,CAN,Monitor,,156.92,PAID,2024-06-13
+ORD2060,2024-10-27,robert brown,chelsea84@example.org,Canada,Laptop,2.0,178.26,Pending,2024-10-27
+ORD2061,2024-04-27,charles french,chelseabecker@example.net,CAN,Mouse,,$45.71,PAID,2024-04-29
+ORD2062,09/03/2024,  CLAYTON WALKER  ,mark81@example.com,CAN,Laptop,3.0,$192.12,Paid,2024-09-03
+ORD2063,2024-02-21,  DANIEL JONES  ,whammond@example.net,US,Monitor,,162.67,Paid,2024-03-02
+ORD2064,07/24/2024,brandon dickson,wagnerkimberly@example.net,canada,Keyboard,1.0,67.56,PAID,2024-07-30
+ORD2065,Jul 05 2024,David Haynes,richardbrock@example.org,United States,Mouse,2.0,$196.34,pending,2024-07-06
+ORD2066,09/20/2024,  JEFFERY WOODWARD  ,veronica38@example.org,United States,Monitor,,$92.63,Paid,2024-09-29
+ORD2067,07/08/2024,victoria holmes,jadeholloway@example.org,united states,Mouse,,$74.12,Pending,
+ORD2068,06/15/2024,jasmine copeland,marcus72@example.net,CAN,Mouse,1.0,$123.2,pending,
+ORD2069,03/15/2024,rachael martin,ashley26@example.com,United Kingdom,Mouse,,91.91,pending,2024-03-25
+ORD2070,2024-01-21,Katherine Johnston,gilbertruth@example.org,United States,Monitor,3.0,80.83,Paid,2024-01-22
+ORD2071,Jun 03 2024,  DEVIN ROSALES  ,ismith@example.net,U.K.,Laptop,,14.25,Pending,2024-06-09
+ORD2072,Apr 08 2024,Linda Perez,michelleblack@example.com,U.S.,Laptop,3.0,$199.03,Pending,2024-04-17
+ORD2073,Aug 11 2024,  SAMUEL JOHNSON  ,richjessica@example.net,CAN,Mouse,2.0,62.6,PAID,
+ORD2074,04/16/2024,  CHARLES CUMMINGS  ,robertmartin@example.net,United Kingdom,Keyboard,,$134.87,paid,
+ORD2075,Jun 15 2024,Nicole Johnson,margaret16@example.org,United Kingdom,Monitor,1.0,126.16,PAID,2024-06-18
+ORD2076,08/31/2024,kim marshall,yarnold@example.net,canada,Monitor,1.0,$75.16,paid,2024-09-08
+ORD2077,May 10 2024,Christopher Nunez,zbarrera@example.org,UK,Keyboard,1.0,$135.53,pending,2024-05-16
+ORD2078,2024-05-29,  HANNAH NUNEZ  ,steven81@example.com,United Kingdom,Mouse,,138.16,pending,2024-06-03
+ORD2079,01/12/2024,maria sandoval,wallacesusan@example.org,United Kingdom,Laptop,,$198.04,paid,2024-01-16
+ORD2080,2024-02-26,Sarah Howell,mathewcosta@example.org,CAN,Monitor,3.0,$43.94,paid,2024-03-06
+ORD2081,May 22 2024,Matthew Smith,bryanwise@example.com,U.K.,Keyboard,3.0,129.75,pending,2024-05-27
+ORD2082,07/25/2024,  BRITTANY SCHMIDT  ,millercindy@example.com,US,Monitor,,$64.39,pending,2024-08-01
+ORD2083,2024-08-25,Lisa Patterson,michael55@example.com,CAN,Monitor,2.0,$139.84,Paid,2024-09-04
+ORD2084,Mar 11 2024,laura valdez,patricia99@example.org,United Kingdom,Mouse,1.0,$123.92,Pending,2024-03-20
+ORD2085,2024-07-08,randy bullock,stewartmichael@example.net,Canada,Mouse,,$114.89,paid,2024-07-08
+ORD2086,05/30/2024,Nathan Bishop,smithtaylor@example.com,canada,Mouse,1.0,49.33,Pending,2024-05-31
+ORD2087,2024-02-26,  ZACHARY DONALDSON  ,danielpatel@example.com,uk,Laptop,3.0,$175.7,Paid,2024-03-06
+ORD2088,2024-07-27,Candace White,juliethompson@example.org,uk,Laptop,,173.81,pending,2024-08-04
+ORD2089,Sep 30 2024,  ALBERT WOOD  ,osmith@example.com,CAN,Laptop,,$101.35,pending,2024-09-30
+ORD2090,08/13/2024,angela coleman,trevinocrystal@example.net,United States,Mouse,1.0,$29.69,PAID,2024-08-19
+ORD2091,05/04/2024,keith wallace,gamblenicole@example.org,uk,Monitor,2.0,60.26,PAID,2024-05-11
+ORD2092,Aug 15 2024,  HENRY CHRISTIAN  ,nfox@example.org,USA,Mouse,,$142.92,PAID,
+ORD2093,07/08/2024,anthony williams,eatonzachary@example.com,U.K.,Keyboard,3.0,$145.62,Pending,2024-07-17
+ORD2094,03/20/2024,  SEAN DIXON  ,hstrickland@example.net,U.S.,Laptop,2.0,125.42,pending,2024-03-22
+ORD2095,Oct 26 2024,John Washington,brittany21@example.net,CAN,Monitor,3.0,79.19,paid,2024-10-26
+ORD2096,03/20/2024,jeanne padilla,william73@example.org,US,Monitor,3.0,$109.43,Pending,
+ORD2097,2024-02-03,  AMY HARDY  ,mike31@example.com,United Kingdom,Laptop,2.0,68.77,PAID,2024-02-08
+ORD2098,Oct 18 2024,Joe Marquez,matthewnguyen@example.com,Canada,Laptop,1.0,$169.6,Paid,2024-10-28
+ORD2099,Sep 16 2024,jason miller,jessica17@example.com,United States,Laptop,3.0,$115.12,pending,2024-09-17
+ORD2100,May 11 2024,patricia williams,teresa03@example.org,United Kingdom,Keyboard,2.0,53.38,Paid,2024-05-13
+ORD2101,2024-02-02,  HENRY SMITH  ,robert58@example.org,United Kingdom,Monitor,3.0,$21.56,pending,2024-02-04
+ORD2102,2024-01-27,melanie ward,brownlaura@example.com,United States,Mouse,1.0,47.32,PAID,2024-02-01
+ORD2103,10/24/2024,elizabeth wong,joshualopez@example.org,U.K.,Monitor,1.0,146.8,PAID,2024-10-30
+ORD2104,05/18/2024,George Snyder,farmerheather@example.net,united states,Keyboard,2.0,72.44,paid,2024-05-25
+ORD2105,2024-10-14,Robert Jordan,pattonthomas@example.com,canada,Laptop,3.0,$128.93,pending,2024-10-22
+ORD2106,Mar 24 2024,Todd Washington,sbryant@example.com,canada,Keyboard,1.0,154.48,pending,2024-03-26
+ORD2107,Apr 09 2024,Helen Cooper,tbond@example.org,canada,Laptop,2.0,50.51,pending,2024-04-10
+ORD2108,03/20/2024,Troy Garza,afleming@example.com,United Kingdom,Mouse,2.0,$46.46,pending,2024-03-25
+ORD2109,08/01/2024,Tammy Hayes,jason43@example.net,Canada,Mouse,2.0,$187.24,PAID,2024-08-05
+ORD2110,06/10/2024,jennifer ford,dsmith@example.org,CAN,Laptop,3.0,90.81,PAID,2024-06-17
+ORD2111,Mar 12 2024,  JUAN PERRY  ,dadams@example.org,U.K.,Keyboard,3.0,$13.7,PAID,
+ORD2112,Aug 06 2024,  SARAH WILSON  ,michelle79@example.org,U.S.,Monitor,3.0,116.03,Paid,
+ORD2113,Mar 23 2024,Harry Green,ustewart@example.net,USA,Monitor,,188.88,Pending,2024-03-28
+ORD2114,Oct 27 2024,christopher perez,clintonriley@example.com,canada,Keyboard,1.0,$29.27,paid,2024-11-02
+ORD2115,2024-02-07,nicole young,gyang@example.org,UK,Laptop,,$166.62,PAID,2024-02-12
+ORD2116,2024-05-13,james davis,ubowen@example.net,uk,Keyboard,3.0,141.02,PAID,2024-05-21
+ORD2117,2024-08-16,jonathan jones,mark89@example.com,U.K.,Keyboard,2.0,$71.04,Paid,2024-08-19
+ORD2118,2024-07-29,kellie bishop,urichmond@example.org,UK,Keyboard,,$163.15,Pending,2024-08-04
+ORD2119,09/15/2024,Tyler Johnson,chandleremily@example.net,United Kingdom,Laptop,,63.7,Paid,2024-09-20
+ORD2120,2024-09-19,Michael Mcdonald,ycaldwell@example.org,CAN,Keyboard,,$125.91,paid,2024-09-20
+ORD2121,Feb 07 2024,Jenna Schwartz,jennifer58@example.net,USA,Monitor,3.0,96.27,Paid,2024-02-09
+ORD2122,07/18/2024,  KRISTEN WINTERS  ,matthewvillanueva@example.org,U.S.,Keyboard,1.0,52.79,paid,2024-07-18
+ORD2123,2024-10-21,  RYAN WALTON  ,fdominguez@example.com,US,Laptop,2.0,$45.88,pending,2024-10-26
+ORD2124,01/21/2024,Samantha Morgan,wilkersonbryan@example.com,U.K.,Mouse,3.0,$191.39,paid,2024-01-23
+ORD2125,2024-05-18,  HALEY MENDOZA  ,matthewlopez@example.net,canada,Laptop,2.0,156.75,Pending,
+ORD2126,04/16/2024,  KENNETH COHEN  ,michelehawkins@example.net,CAN,Laptop,1.0,$94.89,paid,2024-04-22
+ORD2127,2024-10-23,  STACY WELCH  ,rodriguezjesse@example.com,canada,Keyboard,1.0,40.95,PAID,2024-10-31
+ORD2128,Apr 17 2024,  JULIA STEVENS  ,wfreeman@example.org,canada,Laptop,3.0,$100.82,Pending,2024-04-18
+ORD2129,2024-02-21,Alyssa Murray,marie72@example.com,united states,Mouse,3.0,189.69,Paid,2024-02-26
+ORD2130,07/18/2024,Joshua King,kenneth90@example.com,USA,Mouse,1.0,190.75,paid,2024-07-25
+ORD2131,03/06/2024,lauren chung,xhudson@example.com,U.S.,Keyboard,2.0,$36.64,Pending,2024-03-14
+ORD2132,2024-08-02,Laura Cain,clarkjonathan@example.org,US,Keyboard,2.0,187.9,Paid,2024-08-04
+ORD2133,Jan 16 2024,Michael Hardin,dwright@example.org,United Kingdom,Keyboard,2.0,$68.15,Paid,2024-01-23
+ORD2134,2024-08-28,Austin Palmer,christopher53@example.org,uk,Mouse,2.0,$183.58,Paid,2024-08-28
+ORD2135,2024-04-24,christine gill,xcosta@example.com,CAN,Monitor,,$197.76,pending,2024-04-25
+ORD2136,01/01/2024,  KAITLYN JONES  ,dominiquehaley@example.org,U.K.,Keyboard,,99.2,Paid,2024-01-05
+ORD2137,2024-10-19,pamela schmidt,eric65@example.com,U.K.,Laptop,2.0,51.67,Pending,2024-10-22
+ORD2138,Feb 23 2024,brenda hancock phd,pattersonrobert@example.org,canada,Keyboard,2.0,57.63,paid,2024-02-26
+ORD2139,2024-07-10,Emily Lawson,lisataylor@example.com,U.K.,Laptop,2.0,120.08,paid,
+ORD2140,2024-01-18,william cook,manuel26@example.com,Canada,Mouse,2.0,85.39,pending,2024-01-21
+ORD2141,2024-04-19,Casey Smith,jeffery14@example.net,UK,Keyboard,3.0,$113.72,paid,2024-04-26
+ORD2142,Sep 06 2024,Todd Andrews,igross@example.net,united states,Laptop,,136.02,Pending,2024-09-14
+ORD2143,10/05/2024,scott wilkins,michaelaadams@example.org,uk,Keyboard,1.0,$53.15,PAID,2024-10-07
+ORD2144,Aug 11 2024,  JENNIFER BISHOP  ,williamshelen@example.org,UK,Mouse,1.0,$193.6,paid,2024-08-19
+ORD2145,Apr 11 2024,Raymond Hamilton,parkerbethany@example.com,Canada,Mouse,2.0,116.95,pending,2024-04-16
+ORD2146,Mar 22 2024,  SARA BROWN  ,laurensullivan@example.net,uk,Mouse,2.0,130.63,pending,2024-03-23
+ORD2147,04/13/2024,  RACHEL SCOTT  ,ymoore@example.org,UK,Monitor,1.0,192.22,Pending,2024-04-17
+ORD2148,Jun 02 2024,michelle kerr,james50@example.com,uk,Laptop,1.0,$57.75,Pending,2024-06-02
+ORD2149,2024-09-03,sandra nixon,uyoung@example.com,U.S.,Mouse,2.0,84.34,Paid,2024-09-05
+ORD2150,May 21 2024,Kathryn French,christopheradams@example.com,U.S.,Monitor,,$33.46,PAID,2024-05-23
+ORD2151,Jan 06 2024,  RANDY JOHNSON  ,tinalam@example.com,U.K.,Monitor,1.0,$108.92,Pending,2024-01-16
+ORD2152,Mar 04 2024,richard bell,thompsonkayla@example.org,USA,Monitor,,39.2,PAID,2024-03-12
+ORD2153,Aug 26 2024,timothy phelps,howelltina@example.org,united states,Mouse,2.0,176.49,Paid,2024-09-01
+ORD2154,07/04/2024,Joseph Willis,ellen07@example.com,united states,Keyboard,,168.97,pending,2024-07-07
+ORD2155,May 08 2024,michael gentry,beverly12@example.net,canada,Mouse,1.0,12.46,PAID,2024-05-13
+ORD2156,Sep 06 2024,Angela Crawford,uolson@example.com,United Kingdom,Laptop,,125.26,Paid,2024-09-14
+ORD2157,May 02 2024,nicholas gordon,deanjeffrey@example.com,canada,Monitor,,164.9,pending,
+ORD2158,2024-07-23,  AUSTIN BARRETT  ,vernon28@example.com,US,Laptop,,137.12,PAID,
+ORD2159,07/30/2024,Mark Allen,joshuajones@example.net,Canada,Mouse,,$171.39,Paid,2024-07-30
+ORD2160,May 14 2024,Connie Miller,williamsallison@example.org,Canada,Mouse,2.0,116.11,Paid,2024-05-16
+ORD2161,2024-10-02,anna smith,ithompson@example.com,CAN,Keyboard,3.0,167.45,paid,2024-10-05
+ORD2162,04/13/2024,Joshua Gay,maxwell08@example.net,US,Keyboard,,$76.61,paid,2024-04-17
+ORD2163,Sep 16 2024,  MELANIE PAYNE  ,mariogoodman@example.net,United Kingdom,Laptop,3.0,$153.79,Paid,2024-09-26
+ORD2164,Jul 26 2024,lauren miller,cruzjoseph@example.com,CAN,Laptop,2.0,146.02,PAID,2024-07-30
+ORD2165,2024-02-12,  MARIA KING  ,louismartinez@example.org,US,Keyboard,2.0,$94.08,paid,2024-02-17
+ORD2166,2024-04-22,  BRADLEY CROSS  ,zbrown@example.net,united states,Mouse,2.0,93.67,pending,2024-04-25
+ORD2167,Aug 12 2024,Timothy Davis,amber63@example.net,CAN,Keyboard,2.0,88.34,PAID,2024-08-18
+ORD2168,2024-05-14,jessica frank,vincentshaw@example.net,uk,Mouse,3.0,$79.26,paid,2024-05-20
+ORD2169,Oct 23 2024,amanda johnson,jreynolds@example.net,United States,Mouse,1.0,196.39,pending,2024-10-25
+ORD2170,2024-04-24,jacqueline lutz,kristiwiggins@example.net,United Kingdom,Monitor,3.0,$119.11,paid,
+ORD2171,08/17/2024,ricky kennedy,landerson@example.org,U.K.,Keyboard,1.0,$180.21,PAID,2024-08-25
+ORD2172,2024-01-15,thomas gallagher,eyoung@example.com,canada,Keyboard,,91.86,PAID,2024-01-24
+ORD2173,Oct 18 2024,colleen palmer,gonzalezkayla@example.org,USA,Laptop,,37.4,PAID,2024-10-26
+ORD2174,Feb 06 2024,  JESSICA WAGNER  ,barbaraking@example.com,U.S.,Mouse,1.0,110.66,paid,2024-02-15
+ORD2175,01/16/2024,  JESSICA MORTON  ,allencristina@example.net,CAN,Monitor,,148.45,Pending,2024-01-26
+ORD2176,03/11/2024,  KEITH MILLER  ,wigginsmark@example.org,CAN,Keyboard,2.0,$28.21,paid,2024-03-16
+ORD2177,Apr 12 2024,  WILLIE PEREZ  ,gregoryheather@example.com,canada,Laptop,3.0,197.27,Paid,2024-04-15
+ORD2178,2024-02-01,  CHARLES TURNER  ,wcamacho@example.net,UK,Laptop,1.0,$139.71,Pending,2024-02-09
+ORD2179,2024-10-17,  JACOB PRICE  ,danielle59@example.org,United Kingdom,Monitor,3.0,$173.28,paid,2024-10-26
+ORD2180,Feb 19 2024,  MARGARET CLARK  ,vegacody@example.com,canada,Mouse,2.0,123.95,Pending,
+ORD2181,01/20/2024,michael orr,lisa38@example.net,U.K.,Mouse,1.0,163.37,paid,2024-01-28
+ORD2182,09/11/2024,Terry Shelton,hernandezkarina@example.com,UK,Monitor,2.0,199.49,Paid,2024-09-14
+ORD2183,2024-02-03,darrell thompson,alexanderwilliams@example.net,CAN,Laptop,2.0,$79.48,Pending,2024-02-08
+ORD2184,02/20/2024,dalton walker,edwardbell@example.net,uk,Monitor,1.0,136.07,paid,2024-02-28
+ORD2185,Mar 10 2024,johnny davis,markhaynes@example.com,United States,Monitor,2.0,$65.66,Paid,2024-03-17
+ORD2186,09/04/2024,Cody Williams,allenricardo@example.com,UK,Laptop,,$68.12,Paid,2024-09-13
+ORD2187,Oct 27 2024,  THOMAS REYES  ,kmedina@example.net,USA,Laptop,2.0,131.78,Pending,2024-11-05
+ORD2188,Oct 02 2024,stephen wilson,combsjessica@example.com,U.K.,Laptop,,150.32,Paid,2024-10-02
+ORD2189,2024-04-05,robert williams,johnsontimothy@example.org,United Kingdom,Laptop,3.0,$23.86,Pending,2024-04-08
+ORD2190,Feb 29 2024,Connie Singh,xshannon@example.org,US,Monitor,1.0,181.84,PAID,2024-03-04
+ORD2191,2024-07-24,connie day,vdrake@example.net,CAN,Keyboard,2.0,$36.92,PAID,2024-07-24
+ORD2192,2024-01-06,charles farrell,greenmatthew@example.com,United Kingdom,Laptop,,81.66,Pending,
+ORD2193,2024-08-17,  JOEL HORTON  ,michael44@example.org,canada,Laptop,2.0,$23.4,PAID,2024-08-19
+ORD2194,05/11/2024,  CHRISTOPHER JONES DVM  ,halldaniel@example.net,United Kingdom,Keyboard,,$64.11,Paid,2024-05-21
+ORD2195,Apr 13 2024,denise campbell,judyramirez@example.net,United States,Laptop,,$48.15,Pending,2024-04-14
+ORD2196,02/04/2024,seth williams,jpierce@example.org,USA,Mouse,,126.91,PAID,
+ORD2197,01/08/2024,gary cohen,peterrichardson@example.net,U.S.,Laptop,3.0,$173.3,paid,2024-01-10
+ORD2198,2024-09-15,James Waller,perrykenneth@example.org,USA,Monitor,2.0,$44.95,paid,2024-09-16
+ORD2199,05/27/2024,  PHILLIP SANCHEZ  ,david18@example.org,U.K.,Laptop,2.0,$37.24,pending,
+ORD1300,Oct 11 2024,Lucas Thomas,coledaniel@example.com,uk,Monitor,3.0,$172.76,paid,2024-10-17
+ORD2075,Jun 15 2024,Nicole Johnson,margaret16@example.org,United Kingdom,Monitor,1.0,126.16,PAID,2024-06-18
+ORD1150,2024-04-12,seth johnson,ecooper@example.com,canada,Mouse,2.0,160.17,Paid,
+ORD2086,05/30/2024,Nathan Bishop,smithtaylor@example.com,canada,Mouse,1.0,49.33,Pending,2024-05-31
+ORD1013,2024-03-06,  ZACHARY JOHNSON  ,porterjoel@example.org,United Kingdom,Monitor,,189.9,pending,2024-03-16
+ORD1247,Mar 25 2024,jessica watson,gomezbrianna@example.net,U.K.,Laptop,,128.86,Paid,2024-03-25
+ORD1811,2024-09-29,Mrs. Shannon Alexander MD,maryjames@example.com,uk,Monitor,,12.64,PAID,2024-09-30
+ORD1784,08/23/2024,nicholas howe,johnny81@example.com,canada,Mouse,2.0,165.07,paid,2024-08-28
+ORD1605,09/14/2024,aaron craig,tyler46@example.org,canada,Laptop,3.0,41.66,pending,2024-09-24
+ORD1007,Aug 22 2024,jose david,ambermiller@example.com,United Kingdom,Monitor,3.0,36.53,Pending,2024-08-24
+ORD1805,02/23/2024,Jasmine Mullins,cortega@example.net,United States,Keyboard,2.0,110.03,PAID,2024-02-24
+ORD2029,2024-08-01,jeffrey meyer,reginaldnunez@example.net,uk,Laptop,2.0,99.39,PAID,
+ORD1637,2024-10-19,Sarah Stout,chase50@example.net,Canada,Laptop,,$184.88,Paid,2024-10-21
+ORD1157,Apr 14 2024,Ryan Norton,eileenhernandez@example.com,Canada,Monitor,2.0,$69.39,PAID,2024-04-19
+ORD1878,08/07/2024,andrew montgomery,espinozastephanie@example.org,UK,Mouse,3.0,41.26,Pending,2024-08-12
+ORD1338,Jul 25 2024,Robert Shaffer,traceyshepherd@example.net,canada,Keyboard,1.0,$97.23,Pending,2024-07-28
+ORD1095,Sep 09 2024,  JASON WILSON  ,tgonzales@example.org,canada,Keyboard,1.0,54.61,pending,2024-09-10
+ORD1771,2024-05-21,Mary Lynn,davismegan@example.com,United States,Laptop,3.0,$15.64,Paid,2024-05-22
+ORD1675,Oct 13 2024,robert weiss,sray@example.net,canada,Monitor,,175.68,Pending,2024-10-21
+ORD1721,Feb 03 2024,andrea sutton,edwardwise@example.net,UK,Monitor,,$152.75,PAID,2024-02-05
