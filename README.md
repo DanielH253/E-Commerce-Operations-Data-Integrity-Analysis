@@ -1,7 +1,7 @@
 # E-Commerce Operations & Data Engineering Analysis
 An end-to-end data cleaning and analysis project using Excel, Power Query, and Power Pivot to analyze e-commerce orders, payments, and refunds.
 
-![Dashboard Preview](images/Dashboard.png)
+![Dashboard Preview](Images/Dashboard.png)
 
 ## Project Overview
 This project demonstrates an end-to-end data pipeline: from **complex ETL (Extract, Transform, Load)** to visualization and analysis in Excel. 
@@ -66,13 +66,13 @@ To recover the truth from the noise, A multi-stage transformation engine was bui
 
 1.  **Data Cleaning:** The Orders and Payment tables went through a transformation process to clean unnecessary/junk data, including the removal of ID duplicates on both tables, replacing missing (null) orders with "1" (a reasonable assumption based on the fact that if an order exists in the first place, it stands to reason that at least one unit was made for that order), cleaning unwanted spaces from the Customer Name column, as well as correctly capitalizing first and last names, and finally, currency and payment status were standardized ("paid" or "PAID" -> Paid/"usd", "Usd" -> USD).
 
-![Power Query Cleaning Steps](images/1-Power%20Query%20Steps%20(Orders).png)
+![Power Query Cleaning Steps](Images/1-PQ-Steps-Orders.png)
 
 2.	**Metric Creation:** Gross Revenue was calculated by multiplying Quantity x Price in this table, to have this ready for the creation of the fact table later on.
 
 3.	**Country Standardization:** The Country column had inconsistent names for each country, such as U.S., US, united states, and so on. For this, a unique list of countries was extracted and loaded into a Mapping Reference, to ensure that all of the inconsistent names were all in one table. Then, the proper dimension table was made to categorize each country into a single, standardized name (United States, United Kingdom, Canada). This way, if a new, unique record is entered, one can simply add it to the mapping table, whereupon Power Query will automatically update the entered unique name into the list of admitted records for one of the countries in the dataset.
 
-![Country Mapping Logic](images/Country%20Map%20Table.png)
+![Country Mapping Logic](Images/Country-Map-Table.png)
 
 4.	**Country Lookup Table Merge:** The standard, messy Country column was merged with the standardized, clean country table, so each name was mapped to the correct country. Evidently, only the clean Country column was kept, while the messy Country column was discarded.
 
@@ -84,14 +84,14 @@ Additionally, a helper column was created to categorize delays in payment. The r
 
 Time intelligence metrics were created: Month, Month number (this column is for sorting the normal Month column, as otherwise it would show months in alphabetical order instead of the correct order), Year, and Year-Month (while this dataset only has records for 2024, it was still created in case records from different years were added in the future, effectively future-proofing the dataset if the need arises).
 
-![Fact Table ETL Process](images/5-Power%20Query%20Steps%20(Fact%20Table).png)
+![Fact Table ETL Process](Images/5-PQ-Steps-Fact-Table.png)
 
 
 Lastly, nulls in the Refund Reason column were replaced with "No Refund", to give the nulls meaning. To finish up, columns were renamed, reordered, and data types were validated. 
 
 7.	**Importing to Data Model:** The fact table was loaded into Excel's data model (Power Pivot) to create Measures, as well as sorting month by its correct month index. Among the Measures created, these include: Total Gross Revenue, Total Net Revenue, Total Refund Amount, Total Orders, among others. A Measure for Data Accuracy % was created as well, its purpose being to showcase how much of the programmatically generated data did not have paradoxical logic errors, specifically negative days in payment delays. We can observe that the accuracy is 53.50%. This not only showcases transparency, but also an ability to spot possible data errors in datasets.
 
-![DAX Measures and Data Model](images/Power%20Pivot%20Measures.png)
+![DAX Measures and Data Model](Images/Power-Pivot-Measures.png)
 
 8.	**Final Report:** Once the transformation and modeling process was complete, creation of Pivot Tables to show key metrics (shown below) and the finalized dashboard could begin, ready for the final dashboard and report presentation.
 ---
