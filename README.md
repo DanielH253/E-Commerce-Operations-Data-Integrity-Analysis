@@ -96,6 +96,12 @@ Lastly, nulls in the Refund Reason column were replaced with "No Refund", to giv
 8.	**Final Report:** Once the transformation and modeling process was complete, creation of Pivot Tables to show key metrics (shown below) and the finalized dashboard could begin, ready for the final dashboard and report presentation.
 ---
 
+## Dynamic Data Sourcing
+To ensure project portability, I implemented a dynamic file path solution using the Excel `CELL` function and Power Query. A Named Range (`fPath`) captures the local directory string, which is then passed as a parameter into Power Query's `Source` steps.
+* **The Result:** The workbook is "self-healing"; it automatically detects its location and refreshes successfully on any machine without manual re-linking of data sources.
+
+---
+
 ## Business Insights & Key Metrics
 Despite the intentional data corruption, the final dashboard reveals high-level operational truths:
 
