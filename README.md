@@ -1,4 +1,4 @@
-# E-Commerce Operations & Data Engineering Analysis
+# E-Commerce Operations & Data Analysis
 An end-to-end data cleaning and analysis project using Excel, Power Query, and Power Pivot to analyze e-commerce orders, payments, and refunds.
 
 ![Dashboard Preview](Images/Dashboard.png)
